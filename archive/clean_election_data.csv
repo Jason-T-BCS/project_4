@@ -1,0 +1,1124 @@
+,year,state,state_po,candidate,party,candidatevotes,totalvotes,join_col,Winner,vote_percent
+0,1976,Alabama,AL,"Carter, Jimmy",Democratic,659170,1182850,1976-Democratic,True,55.73
+1,1976,Alabama,AL,"Ford, Gerald",Republican,504070,1182850,1976-Republican,False,42.61
+2,1976,Alaska,AK,"Ford, Gerald",Republican,71555,123574,1976-Republican,False,57.9
+3,1976,Alaska,AK,"Carter, Jimmy",Democratic,44058,123574,1976-Democratic,True,35.65
+4,1976,Arizona,AZ,"Ford, Gerald",Republican,418642,742719,1976-Republican,False,56.37
+5,1976,Arizona,AZ,"Carter, Jimmy",Democratic,295602,742719,1976-Democratic,True,39.8
+6,1976,Arkansas,AR,"Carter, Jimmy",Democratic,498604,767535,1976-Democratic,True,64.96
+7,1976,Arkansas,AR,"Ford, Gerald",Republican,267903,767535,1976-Republican,False,34.9
+8,1976,California,CA,"Ford, Gerald",Republican,3882244,7803770,1976-Republican,False,49.75
+9,1976,California,CA,"Carter, Jimmy",Democratic,3742284,7803770,1976-Democratic,True,47.95
+10,1976,Colorado,CO,"Ford, Gerald",Republican,584278,1081440,1976-Republican,False,54.03
+11,1976,Colorado,CO,"Carter, Jimmy",Democratic,460801,1081440,1976-Democratic,True,42.61
+12,1976,Connecticut,CT,"Ford, Gerald",Republican,719261,1386355,1976-Republican,False,51.88
+13,1976,Connecticut,CT,"Carter, Jimmy",Democratic,647895,1386355,1976-Democratic,True,46.73
+14,1976,Delaware,DE,"Carter, Jimmy",Democratic,122461,235642,1976-Democratic,True,51.97
+15,1976,Delaware,DE,"Ford, Gerald",Republican,109780,235642,1976-Republican,False,46.59
+16,1976,District of Columbia,DC,"Carter, Jimmy",Democratic,137818,168830,1976-Democratic,True,81.63
+17,1976,District of Columbia,DC,"Ford, Gerald",Republican,27873,168830,1976-Republican,False,16.51
+18,1976,Florida,FL,"Carter, Jimmy",Democratic,1636000,3150631,1976-Democratic,True,51.93
+19,1976,Florida,FL,"Ford, Gerald",Republican,1469531,3150631,1976-Republican,False,46.64
+20,1976,Georgia,GA,"Carter, Jimmy",Democratic,979409,1463152,1976-Democratic,True,66.94
+21,1976,Georgia,GA,"Ford, Gerald",Republican,483743,1463152,1976-Republican,False,33.06
+22,1976,Hawaii,HI,"Carter, Jimmy",Democratic,147375,291301,1976-Democratic,True,50.59
+23,1976,Hawaii,HI,"Ford, Gerald",Republican,140003,291301,1976-Republican,False,48.06
+24,1976,Idaho,ID,"Ford, Gerald",Republican,204151,340932,1976-Republican,False,59.88
+25,1976,Idaho,ID,"Carter, Jimmy",Democratic,126549,340932,1976-Democratic,True,37.12
+26,1976,Illinois,IL,"Ford, Gerald",Republican,2364269,4721282,1976-Republican,False,50.08
+27,1976,Illinois,IL,"Carter, Jimmy",Democratic,2271295,4721282,1976-Democratic,True,48.11
+28,1976,Indiana,IN,"Ford, Gerald",Republican,1183958,2220362,1976-Republican,False,53.32
+29,1976,Indiana,IN,"Carter, Jimmy",Democratic,1014714,2220362,1976-Democratic,True,45.7
+30,1976,Iowa,IA,"Ford, Gerald",Republican,632864,1279303,1976-Republican,False,49.47
+31,1976,Iowa,IA,"Carter, Jimmy",Democratic,619931,1279303,1976-Democratic,True,48.46
+32,1976,Kansas,KS,"Ford, Gerald",Republican,502752,957845,1976-Republican,False,52.49
+33,1976,Kansas,KS,"Carter, Jimmy",Democratic,430421,957845,1976-Democratic,True,44.94
+34,1976,Kentucky,KY,"Carter, Jimmy",Democratic,615717,1167142,1976-Democratic,True,52.75
+35,1976,Kentucky,KY,"Ford, Gerald",Republican,531852,1167142,1976-Republican,False,45.57
+36,1976,Louisiana,LA,"Carter, Jimmy",Democratic,661365,1277383,1976-Democratic,True,51.77
+37,1976,Louisiana,LA,"Ford, Gerald",Republican,587446,1277383,1976-Republican,False,45.99
+38,1976,Maine,ME,"Ford, Gerald",Republican,236320,482968,1976-Republican,False,48.93
+39,1976,Maine,ME,"Carter, Jimmy",Democratic,232279,482968,1976-Democratic,True,48.09
+40,1976,Maryland,MD,"Carter, Jimmy",Democratic,759612,1432273,1976-Democratic,True,53.04
+41,1976,Maryland,MD,"Ford, Gerald",Republican,672661,1432273,1976-Republican,False,46.96
+42,1976,Massachusetts,MA,"Carter, Jimmy",Democratic,1429475,2547558,1976-Democratic,True,56.11
+43,1976,Massachusetts,MA,"Ford, Gerald",Republican,1030276,2547558,1976-Republican,False,40.44
+44,1976,Michigan,MI,"Ford, Gerald",Republican,1893742,3651590,1976-Republican,False,51.86
+45,1976,Michigan,MI,"Carter, Jimmy",Democratic,1696714,3651590,1976-Democratic,True,46.47
+46,1976,Minnesota,MN,"Carter, Jimmy",Democratic,1070440,1949931,1976-Democratic,True,54.9
+47,1976,Minnesota,MN,"Ford, Gerald",Republican,819395,1949931,1976-Republican,False,42.02
+48,1976,Mississippi,MS,"Carter, Jimmy",Democratic,381329,768390,1976-Democratic,True,49.63
+49,1976,Mississippi,MS,"Ford, Gerald",Republican,366846,768390,1976-Republican,False,47.74
+50,1976,Missouri,MO,"Carter, Jimmy",Democratic,998387,1953600,1976-Democratic,True,51.1
+51,1976,Missouri,MO,"Ford, Gerald",Republican,927443,1953600,1976-Republican,False,47.47
+52,1976,Montana,MT,"Ford, Gerald",Republican,173703,328734,1976-Republican,False,52.84
+53,1976,Montana,MT,"Carter, Jimmy",Democratic,149259,328734,1976-Democratic,True,45.4
+54,1976,Nebraska,NE,"Ford, Gerald",Republican,359219,606749,1976-Republican,False,59.2
+55,1976,Nebraska,NE,"Carter, Jimmy",Democratic,233293,606749,1976-Democratic,True,38.45
+56,1976,Nevada,NV,"Ford, Gerald",Republican,101273,201876,1976-Republican,False,50.17
+57,1976,Nevada,NV,"Carter, Jimmy",Democratic,92479,201876,1976-Democratic,True,45.81
+58,1976,New Hampshire,NH,"Ford, Gerald",Republican,185935,339627,1976-Republican,False,54.75
+59,1976,New Hampshire,NH,"Carter, Jimmy",Democratic,147645,339627,1976-Democratic,True,43.47
+60,1976,New Jersey,NJ,"Ford, Gerald",Republican,1509688,3014472,1976-Republican,False,50.08
+61,1976,New Jersey,NJ,"Carter, Jimmy",Democratic,1444653,3014472,1976-Democratic,True,47.92
+62,1976,New Mexico,NM,"Ford, Gerald",Republican,211419,416590,1976-Republican,False,50.75
+63,1976,New Mexico,NM,"Carter, Jimmy",Democratic,201148,416590,1976-Democratic,True,48.28
+64,1976,New York,NY,"Carter, Jimmy",Democratic,3244165,6668262,1976-Democratic,True,48.65
+65,1976,New York,NY,"Ford, Gerald",Republican,2825913,6668262,1976-Republican,False,42.38
+66,1976,North Carolina,NC,"Carter, Jimmy",Democratic,927365,1677906,1976-Democratic,True,55.27
+67,1976,North Carolina,NC,"Ford, Gerald",Republican,741960,1677906,1976-Republican,False,44.22
+68,1976,North Dakota,ND,"Ford, Gerald",Republican,153684,297308,1976-Republican,False,51.69
+69,1976,North Dakota,ND,"Carter, Jimmy",Democratic,136078,297308,1976-Democratic,True,45.77
+70,1976,Ohio,OH,"Carter, Jimmy",Democratic,2009959,4110456,1976-Democratic,True,48.9
+71,1976,Ohio,OH,"Ford, Gerald",Republican,2000626,4110456,1976-Republican,False,48.67
+72,1976,Oklahoma,OK,"Ford, Gerald",Republican,545708,1092251,1976-Republican,False,49.96
+73,1976,Oklahoma,OK,"Carter, Jimmy",Democratic,532442,1092251,1976-Democratic,True,48.75
+74,1976,Oregon,OR,"Ford, Gerald",Republican,492120,1029876,1976-Republican,False,47.78
+75,1976,Oregon,OR,"Carter, Jimmy",Democratic,490407,1029876,1976-Democratic,True,47.62
+76,1976,Pennsylvania,PA,"Carter, Jimmy",Democratic,2328677,4620787,1976-Democratic,True,50.4
+77,1976,Pennsylvania,PA,"Ford, Gerald",Republican,2205604,4620787,1976-Republican,False,47.73
+78,1976,Rhode Island,RI,"Carter, Jimmy",Democratic,227636,410584,1976-Democratic,True,55.44
+79,1976,Rhode Island,RI,"Ford, Gerald",Republican,181249,410584,1976-Republican,False,44.14
+80,1976,South Carolina,SC,"Carter, Jimmy",Democratic,450807,802583,1976-Democratic,True,56.17
+81,1976,South Carolina,SC,"Ford, Gerald",Republican,346149,802583,1976-Republican,False,43.13
+82,1976,South Dakota,SD,"Ford, Gerald",Republican,151505,300678,1976-Republican,False,50.39
+83,1976,South Dakota,SD,"Carter, Jimmy",Democratic,147068,300678,1976-Democratic,True,48.91
+84,1976,Tennessee,TN,"Carter, Jimmy",Democratic,825879,1476346,1976-Democratic,True,55.94
+85,1976,Tennessee,TN,"Ford, Gerald",Republican,633969,1476346,1976-Republican,False,42.94
+86,1976,Texas,TX,"Carter, Jimmy",Democratic,2082319,4071884,1976-Democratic,True,51.14
+87,1976,Texas,TX,"Ford, Gerald",Republican,1953300,4071884,1976-Republican,False,47.97
+88,1976,Utah,UT,"Ford, Gerald",Republican,337908,541218,1976-Republican,False,62.43
+89,1976,Utah,UT,"Carter, Jimmy",Democratic,182110,541218,1976-Democratic,True,33.65
+90,1976,Vermont,VT,"Ford, Gerald",Republican,100387,183902,1976-Republican,False,54.59
+91,1976,Vermont,VT,"Carter, Jimmy",Democratic,77798,183902,1976-Democratic,True,42.3
+92,1976,Virginia,VA,"Ford, Gerald",Republican,836554,1697094,1976-Republican,False,49.29
+93,1976,Virginia,VA,"Carter, Jimmy",Democratic,813896,1697094,1976-Democratic,True,47.96
+94,1976,Washington,WA,"Ford, Gerald",Republican,777732,1555534,1976-Republican,False,50.0
+95,1976,Washington,WA,"Carter, Jimmy",Democratic,717323,1555534,1976-Democratic,True,46.11
+96,1976,West Virginia,WV,"Carter, Jimmy",Democratic,435864,750590,1976-Democratic,True,58.07
+97,1976,West Virginia,WV,"Ford, Gerald",Republican,314726,750590,1976-Republican,False,41.93
+98,1976,Wisconsin,WI,"Carter, Jimmy",Democratic,1040232,2101336,1976-Democratic,True,49.5
+99,1976,Wisconsin,WI,"Ford, Gerald",Republican,1004987,2101336,1976-Republican,False,47.83
+100,1976,Wyoming,WY,"Ford, Gerald",Republican,92717,156343,1976-Republican,False,59.3
+101,1976,Wyoming,WY,"Carter, Jimmy",Democratic,62239,156343,1976-Democratic,True,39.81
+102,1980,Alabama,AL,"Reagan, Ronald",Republican,654192,1341929,1980-Republican,True,48.75
+103,1980,Alabama,AL,"Carter, Jimmy",Democratic,636730,1341929,1980-Democratic,False,47.45
+104,1980,Alaska,AK,"Reagan, Ronald",Republican,86112,158445,1980-Republican,True,54.35
+105,1980,Alaska,AK,"Carter, Jimmy",Democratic,41842,158445,1980-Democratic,False,26.41
+106,1980,Arizona,AZ,"Reagan, Ronald",Republican,529688,873945,1980-Republican,True,60.61
+107,1980,Arizona,AZ,"Carter, Jimmy",Democratic,246843,873945,1980-Democratic,False,28.24
+108,1980,Arkansas,AR,"Reagan, Ronald",Republican,403164,837582,1980-Republican,True,48.13
+109,1980,Arkansas,AR,"Carter, Jimmy",Democratic,398041,837582,1980-Democratic,False,47.52
+110,1980,California,CA,"Reagan, Ronald",Republican,4522994,8582938,1980-Republican,True,52.7
+111,1980,California,CA,"Carter, Jimmy",Democratic,3082943,8582938,1980-Democratic,False,35.92
+112,1980,Colorado,CO,"Reagan, Ronald",Republican,652264,1184450,1980-Republican,True,55.07
+113,1980,Colorado,CO,"Carter, Jimmy",Democratic,368009,1184450,1980-Democratic,False,31.07
+114,1980,Connecticut,CT,"Reagan, Ronald",Republican,677210,1406285,1980-Republican,True,48.16
+115,1980,Connecticut,CT,"Carter, Jimmy",Democratic,541732,1406285,1980-Democratic,False,38.52
+116,1980,Delaware,DE,"Reagan, Ronald",Republican,111252,235668,1980-Republican,True,47.21
+117,1980,Delaware,DE,"Carter, Jimmy",Democratic,105754,235668,1980-Democratic,False,44.87
+118,1980,District of Columbia,DC,"Carter, Jimmy",Democratic,130231,173889,1980-Democratic,False,74.89
+119,1980,District of Columbia,DC,"Reagan, Ronald",Republican,23313,173889,1980-Republican,True,13.41
+120,1980,Florida,FL,"Reagan, Ronald",Republican,2046951,3686927,1980-Republican,True,55.52
+121,1980,Florida,FL,"Carter, Jimmy",Democratic,1419475,3686927,1980-Democratic,False,38.5
+122,1980,Georgia,GA,"Carter, Jimmy",Democratic,890955,1596805,1980-Democratic,False,55.8
+123,1980,Georgia,GA,"Reagan, Ronald",Republican,654168,1596805,1980-Republican,True,40.97
+124,1980,Hawaii,HI,"Carter, Jimmy",Democratic,135879,303287,1980-Democratic,False,44.8
+125,1980,Hawaii,HI,"Reagan, Ronald",Republican,130112,303287,1980-Republican,True,42.9
+126,1980,Idaho,ID,"Reagan, Ronald",Republican,290699,437431,1980-Republican,True,66.46
+127,1980,Idaho,ID,"Carter, Jimmy",Democratic,110192,437431,1980-Democratic,False,25.19
+128,1980,Illinois,IL,"Reagan, Ronald",Republican,2358049,4749721,1980-Republican,True,49.65
+129,1980,Illinois,IL,"Carter, Jimmy",Democratic,1981413,4749721,1980-Democratic,False,41.72
+130,1980,Indiana,IN,"Reagan, Ronald",Republican,1255656,2242033,1980-Republican,True,56.01
+131,1980,Indiana,IN,"Carter, Jimmy",Democratic,844197,2242033,1980-Democratic,False,37.65
+132,1980,Iowa,IA,"Reagan, Ronald",Republican,676026,1317661,1980-Republican,True,51.31
+133,1980,Iowa,IA,"Carter, Jimmy",Democratic,508672,1317661,1980-Democratic,False,38.6
+134,1980,Kansas,KS,"Reagan, Ronald",Republican,566812,979795,1980-Republican,True,57.85
+135,1980,Kansas,KS,"Carter, Jimmy",Democratic,326150,979795,1980-Democratic,False,33.29
+136,1980,Kentucky,KY,"Reagan, Ronald",Republican,635274,1295627,1980-Republican,True,49.03
+137,1980,Kentucky,KY,"Carter, Jimmy",Democratic,617417,1295627,1980-Democratic,False,47.65
+138,1980,Louisiana,LA,"Reagan, Ronald",Republican,792853,1548591,1980-Republican,True,51.2
+139,1980,Louisiana,LA,"Carter, Jimmy",Democratic,708453,1548591,1980-Democratic,False,45.75
+140,1980,Maine,ME,"Reagan, Ronald",Republican,238522,523011,1980-Republican,True,45.61
+141,1980,Maine,ME,"Carter, Jimmy",Democratic,220974,523011,1980-Democratic,False,42.25
+142,1980,Maryland,MD,"Carter, Jimmy",Democratic,726161,1540496,1980-Democratic,False,47.14
+143,1980,Maryland,MD,"Reagan, Ronald",Republican,680606,1540496,1980-Republican,True,44.18
+144,1980,Massachusetts,MA,"Reagan, Ronald",Republican,1057631,2524090,1980-Republican,True,41.9
+145,1980,Massachusetts,MA,"Carter, Jimmy",Democratic,1053802,2524090,1980-Democratic,False,41.75
+146,1980,Michigan,MI,"Reagan, Ronald",Republican,1915225,3909725,1980-Republican,True,48.99
+147,1980,Michigan,MI,"Carter, Jimmy",Democratic,1661532,3909725,1980-Democratic,False,42.5
+148,1980,Minnesota,MN,"Carter, Jimmy",Democratic,954173,2051916,1980-Democratic,False,46.5
+149,1980,Minnesota,MN,"Reagan, Ronald",Republican,873268,2051916,1980-Republican,True,42.56
+150,1980,Mississippi,MS,"Reagan, Ronald",Republican,441089,891750,1980-Republican,True,49.46
+151,1980,Mississippi,MS,"Carter, Jimmy",Democratic,429281,891750,1980-Democratic,False,48.14
+152,1980,Missouri,MO,"Reagan, Ronald",Republican,1074181,2099824,1980-Republican,True,51.16
+153,1980,Missouri,MO,"Carter, Jimmy",Democratic,931182,2099824,1980-Democratic,False,44.35
+154,1980,Montana,MT,"Reagan, Ronald",Republican,206814,363952,1980-Republican,True,56.82
+155,1980,Montana,MT,"Carter, Jimmy",Democratic,118032,363952,1980-Democratic,False,32.43
+156,1980,Nebraska,NE,"Reagan, Ronald",Republican,419214,639533,1980-Republican,True,65.55
+157,1980,Nebraska,NE,"Carter, Jimmy",Democratic,166424,639533,1980-Democratic,False,26.02
+158,1980,Nevada,NV,"Reagan, Ronald",Republican,155017,243692,1980-Republican,True,63.61
+159,1980,Nevada,NV,"Carter, Jimmy",Democratic,66666,243692,1980-Democratic,False,27.36
+160,1980,New Hampshire,NH,"Reagan, Ronald",Republican,221705,383990,1980-Republican,True,57.74
+161,1980,New Hampshire,NH,"Carter, Jimmy",Democratic,108864,383990,1980-Democratic,False,28.35
+162,1980,New Jersey,NJ,"Reagan, Ronald",Republican,1546557,2975684,1980-Republican,True,51.97
+163,1980,New Jersey,NJ,"Carter, Jimmy",Democratic,1147364,2975684,1980-Democratic,False,38.56
+164,1980,New Mexico,NM,"Reagan, Ronald",Republican,250779,456237,1980-Republican,True,54.97
+165,1980,New Mexico,NM,"Carter, Jimmy",Democratic,167826,456237,1980-Democratic,False,36.78
+166,1980,New York,NY,"Carter, Jimmy",Democratic,2728372,6201959,1980-Democratic,False,43.99
+167,1980,New York,NY,"Reagan, Ronald",Republican,2637700,6201959,1980-Republican,True,42.53
+168,1980,North Carolina,NC,"Reagan, Ronald",Republican,915018,1855833,1980-Republican,True,49.3
+169,1980,North Carolina,NC,"Carter, Jimmy",Democratic,875635,1855833,1980-Democratic,False,47.18
+170,1980,North Dakota,ND,"Reagan, Ronald",Republican,193695,301116,1980-Republican,True,64.33
+171,1980,North Dakota,ND,"Carter, Jimmy",Democratic,79189,301116,1980-Democratic,False,26.3
+172,1980,Ohio,OH,"Reagan, Ronald",Republican,2206545,4283603,1980-Republican,True,51.51
+173,1980,Ohio,OH,"Carter, Jimmy",Democratic,1752414,4283603,1980-Democratic,False,40.91
+174,1980,Oklahoma,OK,"Reagan, Ronald",Republican,695570,1149708,1980-Republican,True,60.5
+175,1980,Oklahoma,OK,"Carter, Jimmy",Democratic,402026,1149708,1980-Democratic,False,34.97
+176,1980,Oregon,OR,"Reagan, Ronald",Republican,571044,1181516,1980-Republican,True,48.33
+177,1980,Oregon,OR,"Carter, Jimmy",Democratic,456890,1181516,1980-Democratic,False,38.67
+178,1980,Pennsylvania,PA,"Reagan, Ronald",Republican,2261872,4561501,1980-Republican,True,49.59
+179,1980,Pennsylvania,PA,"Carter, Jimmy",Democratic,1937540,4561501,1980-Democratic,False,42.48
+180,1980,Rhode Island,RI,"Carter, Jimmy",Democratic,198342,415967,1980-Democratic,False,47.68
+181,1980,Rhode Island,RI,"Reagan, Ronald",Republican,154793,415967,1980-Republican,True,37.21
+182,1980,South Carolina,SC,"Reagan, Ronald",Republican,439277,888258,1980-Republican,True,49.45
+183,1980,South Carolina,SC,"Carter, Jimmy",Democratic,428220,888258,1980-Democratic,False,48.21
+184,1980,South Dakota,SD,"Reagan, Ronald",Republican,198343,327703,1980-Republican,True,60.53
+185,1980,South Dakota,SD,"Carter, Jimmy",Democratic,103855,327703,1980-Democratic,False,31.69
+186,1980,Tennessee,TN,"Reagan, Ronald",Republican,787761,1617616,1980-Republican,True,48.7
+187,1980,Tennessee,TN,"Carter, Jimmy",Democratic,783051,1617616,1980-Democratic,False,48.41
+188,1980,Texas,TX,"Reagan, Ronald",Republican,2510705,4541636,1980-Republican,True,55.28
+189,1980,Texas,TX,"Carter, Jimmy",Democratic,1881147,4541636,1980-Democratic,False,41.42
+190,1980,Utah,UT,"Reagan, Ronald",Republican,439687,604152,1980-Republican,True,72.78
+191,1980,Utah,UT,"Carter, Jimmy",Democratic,124266,604152,1980-Democratic,False,20.57
+192,1980,Vermont,VT,"Reagan, Ronald",Republican,94628,213299,1980-Republican,True,44.36
+193,1980,Vermont,VT,"Carter, Jimmy",Democratic,81952,213299,1980-Democratic,False,38.42
+194,1980,Virginia,VA,"Reagan, Ronald",Republican,989609,1866032,1980-Republican,True,53.03
+195,1980,Virginia,VA,"Carter, Jimmy",Democratic,752174,1866032,1980-Democratic,False,40.31
+196,1980,Washington,WA,"Reagan, Ronald",Republican,865244,1742394,1980-Republican,True,49.66
+197,1980,Washington,WA,"Carter, Jimmy",Democratic,650193,1742394,1980-Democratic,False,37.32
+198,1980,West Virginia,WV,"Carter, Jimmy",Democratic,367462,737715,1980-Democratic,False,49.81
+199,1980,West Virginia,WV,"Reagan, Ronald",Republican,334206,737715,1980-Republican,True,45.3
+200,1980,Wisconsin,WI,"Reagan, Ronald",Republican,1088845,2273221,1980-Republican,True,47.9
+201,1980,Wisconsin,WI,"Carter, Jimmy",Democratic,981584,2273221,1980-Democratic,False,43.18
+202,1980,Wyoming,WY,"Reagan, Ronald",Republican,110700,176713,1980-Republican,True,62.64
+203,1980,Wyoming,WY,"Carter, Jimmy",Democratic,49427,176713,1980-Democratic,False,27.97
+204,1984,Alabama,AL,"Reagan, Ronald",Republican,872849,1441713,1984-Republican,True,60.54
+205,1984,Alabama,AL,"Mondale, Walter",Democratic,551899,1441713,1984-Democratic,False,38.28
+206,1984,Alaska,AK,"Reagan, Ronald",Republican,138377,207605,1984-Republican,True,66.65
+207,1984,Alaska,AK,"Mondale, Walter",Democratic,62007,207605,1984-Democratic,False,29.87
+208,1984,Arizona,AZ,"Reagan, Ronald",Republican,681416,1025897,1984-Republican,True,66.42
+209,1984,Arizona,AZ,"Mondale, Walter",Democratic,333854,1025897,1984-Democratic,False,32.54
+210,1984,Arkansas,AR,"Reagan, Ronald",Republican,534774,884406,1984-Republican,True,60.47
+211,1984,Arkansas,AR,"Mondale, Walter",Democratic,338646,884406,1984-Democratic,False,38.29
+212,1984,California,CA,"Reagan, Ronald",Republican,5467009,9505041,1984-Republican,True,57.52
+213,1984,California,CA,"Mondale, Walter",Democratic,3922519,9505041,1984-Democratic,False,41.27
+214,1984,Colorado,CO,"Reagan, Ronald",Republican,821817,1295380,1984-Republican,True,63.44
+215,1984,Colorado,CO,"Mondale, Walter",Democratic,454975,1295380,1984-Democratic,False,35.12
+216,1984,Connecticut,CT,"Reagan, Ronald",Republican,890877,1466900,1984-Republican,True,60.73
+217,1984,Connecticut,CT,"Mondale, Walter",Democratic,569597,1466900,1984-Democratic,False,38.83
+218,1984,Delaware,DE,"Reagan, Ronald",Republican,152190,254572,1984-Republican,True,59.78
+219,1984,Delaware,DE,"Mondale, Walter",Democratic,101656,254572,1984-Democratic,False,39.93
+220,1984,District of Columbia,DC,"Mondale, Walter",Democratic,180408,211288,1984-Democratic,False,85.38
+221,1984,District of Columbia,DC,"Reagan, Ronald",Republican,29009,211288,1984-Republican,True,13.73
+222,1984,Florida,FL,"Reagan, Ronald",Republican,2730350,4180051,1984-Republican,True,65.32
+223,1984,Florida,FL,"Mondale, Walter",Democratic,1448816,4180051,1984-Democratic,False,34.66
+224,1984,Georgia,GA,"Reagan, Ronald",Republican,1068722,1776103,1984-Republican,True,60.17
+225,1984,Georgia,GA,"Mondale, Walter",Democratic,706628,1776103,1984-Democratic,False,39.79
+226,1984,Hawaii,HI,"Reagan, Ronald",Republican,185050,335846,1984-Republican,True,55.1
+227,1984,Hawaii,HI,"Mondale, Walter",Democratic,147154,335846,1984-Democratic,False,43.82
+228,1984,Idaho,ID,"Reagan, Ronald",Republican,297523,411144,1984-Republican,True,72.36
+229,1984,Idaho,ID,"Mondale, Walter",Democratic,108510,411144,1984-Democratic,False,26.39
+230,1984,Illinois,IL,"Reagan, Ronald",Republican,2707103,4819088,1984-Republican,True,56.17
+231,1984,Illinois,IL,"Mondale, Walter",Democratic,2086499,4819088,1984-Democratic,False,43.3
+232,1984,Indiana,IN,"Reagan, Ronald",Republican,1377230,2233069,1984-Republican,True,61.67
+233,1984,Indiana,IN,"Mondale, Walter",Democratic,841481,2233069,1984-Democratic,False,37.68
+234,1984,Iowa,IA,"Reagan, Ronald",Republican,703088,1319805,1984-Republican,True,53.27
+235,1984,Iowa,IA,"Mondale, Walter",Democratic,605620,1319805,1984-Democratic,False,45.89
+236,1984,Kansas,KS,"Reagan, Ronald",Republican,677296,1021991,1984-Republican,True,66.27
+237,1984,Kansas,KS,"Mondale, Walter",Democratic,333149,1021991,1984-Democratic,False,32.6
+238,1984,Kentucky,KY,"Reagan, Ronald",Republican,821702,1369345,1984-Republican,True,60.01
+239,1984,Kentucky,KY,"Mondale, Walter",Democratic,539539,1369345,1984-Democratic,False,39.4
+240,1984,Louisiana,LA,"Reagan, Ronald",Republican,1037299,1706822,1984-Republican,True,60.77
+241,1984,Louisiana,LA,"Mondale, Walter",Democratic,651586,1706822,1984-Democratic,False,38.18
+242,1984,Maine,ME,"Reagan, Ronald",Republican,336500,553144,1984-Republican,True,60.83
+243,1984,Maine,ME,"Mondale, Walter",Democratic,214515,553144,1984-Democratic,False,38.78
+244,1984,Maryland,MD,"Reagan, Ronald",Republican,879918,1675873,1984-Republican,True,52.51
+245,1984,Maryland,MD,"Mondale, Walter",Democratic,787935,1675873,1984-Democratic,False,47.02
+246,1984,Massachusetts,MA,"Reagan, Ronald",Republican,1310936,2559383,1984-Republican,True,51.22
+247,1984,Massachusetts,MA,"Mondale, Walter",Democratic,1239606,2559383,1984-Democratic,False,48.43
+248,1984,Michigan,MI,"Reagan, Ronald",Republican,2251571,3801658,1984-Republican,True,59.23
+249,1984,Michigan,MI,"Mondale, Walter",Democratic,1529638,3801658,1984-Democratic,False,40.24
+250,1984,Minnesota,MN,"Mondale, Walter",Democratic,1036364,2084449,1984-Democratic,False,49.72
+251,1984,Minnesota,MN,"Reagan, Ronald",Republican,1032603,2084449,1984-Republican,True,49.54
+252,1984,Mississippi,MS,"Reagan, Ronald",Republican,582377,941104,1984-Republican,True,61.88
+253,1984,Mississippi,MS,"Mondale, Walter",Democratic,352192,941104,1984-Democratic,False,37.42
+254,1984,Missouri,MO,"Reagan, Ronald",Republican,1274188,2122771,1984-Republican,True,60.02
+255,1984,Missouri,MO,"Mondale, Walter",Democratic,848583,2122771,1984-Democratic,False,39.98
+256,1984,Montana,MT,"Reagan, Ronald",Republican,232450,384377,1984-Republican,True,60.47
+257,1984,Montana,MT,"Mondale, Walter",Democratic,146742,384377,1984-Democratic,False,38.18
+258,1984,Nebraska,NE,"Reagan, Ronald",Republican,460054,652090,1984-Republican,True,70.55
+259,1984,Nebraska,NE,"Mondale, Walter",Democratic,187866,652090,1984-Democratic,False,28.81
+260,1984,Nevada,NV,"Reagan, Ronald",Republican,188770,282717,1984-Republican,True,66.77
+261,1984,Nevada,NV,"Mondale, Walter",Democratic,91655,282717,1984-Democratic,False,32.42
+262,1984,New Hampshire,NH,"Reagan, Ronald",Republican,267050,388904,1984-Republican,True,68.67
+263,1984,New Hampshire,NH,"Mondale, Walter",Democratic,120347,388904,1984-Democratic,False,30.95
+264,1984,New Jersey,NJ,"Reagan, Ronald",Republican,1933630,3217862,1984-Republican,True,60.09
+265,1984,New Jersey,NJ,"Mondale, Walter",Democratic,1261323,3217862,1984-Democratic,False,39.2
+266,1984,New Mexico,NM,"Reagan, Ronald",Republican,307101,514370,1984-Republican,True,59.7
+267,1984,New Mexico,NM,"Mondale, Walter",Democratic,201769,514370,1984-Democratic,False,39.23
+268,1984,New York,NY,"Reagan, Ronald",Republican,3376519,6806810,1984-Republican,True,49.61
+269,1984,New York,NY,"Mondale, Walter",Democratic,3001285,6806810,1984-Democratic,False,44.09
+270,1984,North Carolina,NC,"Reagan, Ronald",Republican,1346481,2175361,1984-Republican,True,61.9
+271,1984,North Carolina,NC,"Mondale, Walter",Democratic,824287,2175361,1984-Democratic,False,37.89
+272,1984,North Dakota,ND,"Reagan, Ronald",Republican,200336,308971,1984-Republican,True,64.84
+273,1984,North Dakota,ND,"Mondale, Walter",Democratic,104429,308971,1984-Democratic,False,33.8
+274,1984,Ohio,OH,"Reagan, Ronald",Republican,2678559,4563235,1984-Republican,True,58.7
+275,1984,Ohio,OH,"Mondale, Walter",Democratic,1825440,4563235,1984-Democratic,False,40.0
+276,1984,Oklahoma,OK,"Reagan, Ronald",Republican,861530,1255676,1984-Republican,True,68.61
+277,1984,Oklahoma,OK,"Mondale, Walter",Democratic,385080,1255676,1984-Democratic,False,30.67
+278,1984,Oregon,OR,"Reagan, Ronald",Republican,685700,1226527,1984-Republican,True,55.91
+279,1984,Oregon,OR,"Mondale, Walter",Democratic,536479,1226527,1984-Democratic,False,43.74
+280,1984,Pennsylvania,PA,"Reagan, Ronald",Republican,2584323,4844903,1984-Republican,True,53.34
+281,1984,Pennsylvania,PA,"Mondale, Walter",Democratic,2228131,4844903,1984-Democratic,False,45.99
+282,1984,Rhode Island,RI,"Reagan, Ronald",Republican,212080,410489,1984-Republican,True,51.67
+283,1984,Rhode Island,RI,"Mondale, Walter",Democratic,197106,410489,1984-Democratic,False,48.02
+284,1984,South Carolina,SC,"Reagan, Ronald",Republican,615539,968529,1984-Republican,True,63.55
+285,1984,South Carolina,SC,"Mondale, Walter",Democratic,344459,968529,1984-Democratic,False,35.57
+286,1984,South Dakota,SD,"Reagan, Ronald",Republican,200267,317867,1984-Republican,True,63.0
+287,1984,South Dakota,SD,"Mondale, Walter",Democratic,116113,317867,1984-Democratic,False,36.53
+288,1984,Tennessee,TN,"Reagan, Ronald",Republican,990212,1711993,1984-Republican,True,57.84
+289,1984,Tennessee,TN,"Mondale, Walter",Democratic,711714,1711993,1984-Democratic,False,41.57
+290,1984,Texas,TX,"Reagan, Ronald",Republican,3433428,5397571,1984-Republican,True,63.61
+291,1984,Texas,TX,"Mondale, Walter",Democratic,1949276,5397571,1984-Democratic,False,36.11
+292,1984,Utah,UT,"Reagan, Ronald",Republican,469105,629656,1984-Republican,True,74.5
+293,1984,Utah,UT,"Mondale, Walter",Democratic,155369,629656,1984-Democratic,False,24.68
+294,1984,Vermont,VT,"Reagan, Ronald",Republican,135865,234561,1984-Republican,True,57.92
+295,1984,Vermont,VT,"Mondale, Walter",Democratic,95730,234561,1984-Democratic,False,40.81
+296,1984,Virginia,VA,"Reagan, Ronald",Republican,1337078,2146635,1984-Republican,True,62.29
+297,1984,Virginia,VA,"Mondale, Walter",Democratic,796250,2146635,1984-Democratic,False,37.09
+298,1984,Washington,WA,"Reagan, Ronald",Republican,1051670,1874910,1984-Republican,True,56.09
+299,1984,Washington,WA,"Mondale, Walter",Democratic,798352,1874910,1984-Democratic,False,42.58
+300,1984,West Virginia,WV,"Reagan, Ronald",Republican,405483,735742,1984-Republican,True,55.11
+301,1984,West Virginia,WV,"Mondale, Walter",Democratic,328125,735742,1984-Democratic,False,44.6
+302,1984,Wisconsin,WI,"Reagan, Ronald",Republican,1198584,2211689,1984-Republican,True,54.19
+303,1984,Wisconsin,WI,"Mondale, Walter",Democratic,995740,2211689,1984-Democratic,False,45.02
+304,1984,Wyoming,WY,"Reagan, Ronald",Republican,133241,188968,1984-Republican,True,70.51
+305,1984,Wyoming,WY,"Mondale, Walter",Democratic,53370,188968,1984-Democratic,False,28.24
+306,1988,Alabama,AL,"Bush, George H.W.",Republican,815576,1378476,1988-Republican,True,59.17
+307,1988,Alabama,AL,"Dukakis, Michael",Democratic,549506,1378476,1988-Democratic,False,39.86
+308,1988,Alaska,AK,"Bush, George H.W.",Republican,119251,200116,1988-Republican,True,59.59
+309,1988,Alaska,AK,"Dukakis, Michael",Democratic,72584,200116,1988-Democratic,False,36.27
+310,1988,Arizona,AZ,"Bush, George H.W.",Republican,702541,1171873,1988-Republican,True,59.95
+311,1988,Arizona,AZ,"Dukakis, Michael",Democratic,454029,1171873,1988-Democratic,False,38.74
+312,1988,Arkansas,AR,"Bush, George H.W.",Republican,466578,827738,1988-Republican,True,56.37
+313,1988,Arkansas,AR,"Dukakis, Michael",Democratic,349237,827738,1988-Democratic,False,42.19
+314,1988,California,CA,"Bush, George H.W.",Republican,5054917,9887065,1988-Republican,True,51.13
+315,1988,California,CA,"Dukakis, Michael",Democratic,4702233,9887065,1988-Democratic,False,47.56
+316,1988,Colorado,CO,"Bush, George H.W.",Republican,728177,1372394,1988-Republican,True,53.06
+317,1988,Colorado,CO,"Dukakis, Michael",Democratic,621453,1372394,1988-Democratic,False,45.28
+318,1988,Connecticut,CT,"Bush, George H.W.",Republican,750241,1443394,1988-Republican,True,51.98
+319,1988,Connecticut,CT,"Dukakis, Michael",Democratic,676584,1443394,1988-Democratic,False,46.87
+320,1988,Delaware,DE,"Bush, George H.W.",Republican,139639,249891,1988-Republican,True,55.88
+321,1988,Delaware,DE,"Dukakis, Michael",Democratic,108647,249891,1988-Democratic,False,43.48
+322,1988,District of Columbia,DC,"Dukakis, Michael",Democratic,159407,192877,1988-Democratic,False,82.65
+323,1988,District of Columbia,DC,"Bush, George H.W.",Republican,27590,192877,1988-Republican,True,14.3
+324,1988,Florida,FL,"Bush, George H.W.",Republican,2618885,4302313,1988-Republican,True,60.87
+325,1988,Florida,FL,"Dukakis, Michael",Democratic,1656701,4302313,1988-Democratic,False,38.51
+326,1988,Georgia,GA,"Bush, George H.W.",Republican,1081331,1809672,1988-Republican,True,59.75
+327,1988,Georgia,GA,"Dukakis, Michael",Democratic,714792,1809672,1988-Democratic,False,39.5
+328,1988,Hawaii,HI,"Dukakis, Michael",Democratic,192364,354461,1988-Democratic,False,54.27
+329,1988,Hawaii,HI,"Bush, George H.W.",Republican,158625,354461,1988-Republican,True,44.75
+330,1988,Idaho,ID,"Bush, George H.W.",Republican,253881,408968,1988-Republican,True,62.08
+331,1988,Idaho,ID,"Dukakis, Michael",Democratic,147272,408968,1988-Democratic,False,36.01
+332,1988,Illinois,IL,"Bush, George H.W.",Republican,2310939,4559120,1988-Republican,True,50.69
+333,1988,Illinois,IL,"Dukakis, Michael",Democratic,2215940,4559120,1988-Democratic,False,48.6
+334,1988,Indiana,IN,"Bush, George H.W.",Republican,1297763,2168621,1988-Republican,True,59.84
+335,1988,Indiana,IN,"Dukakis, Michael",Democratic,860643,2168621,1988-Democratic,False,39.69
+336,1988,Iowa,IA,"Dukakis, Michael",Democratic,670557,1225614,1988-Democratic,False,54.71
+337,1988,Iowa,IA,"Bush, George H.W.",Republican,545355,1225614,1988-Republican,True,44.5
+338,1988,Kansas,KS,"Bush, George H.W.",Republican,554049,993044,1988-Republican,True,55.79
+339,1988,Kansas,KS,"Dukakis, Michael",Democratic,422636,993044,1988-Democratic,False,42.56
+340,1988,Kentucky,KY,"Bush, George H.W.",Republican,734281,1322517,1988-Republican,True,55.52
+341,1988,Kentucky,KY,"Dukakis, Michael",Democratic,580368,1322517,1988-Democratic,False,43.88
+342,1988,Louisiana,LA,"Bush, George H.W.",Republican,883702,1628202,1988-Republican,True,54.27
+343,1988,Louisiana,LA,"Dukakis, Michael",Democratic,717460,1628202,1988-Democratic,False,44.06
+344,1988,Maine,ME,"Bush, George H.W.",Republican,307131,555035,1988-Republican,True,55.34
+345,1988,Maine,ME,"Dukakis, Michael",Democratic,243569,555035,1988-Democratic,False,43.88
+346,1988,Maryland,MD,"Bush, George H.W.",Republican,876167,1714358,1988-Republican,True,51.11
+347,1988,Maryland,MD,"Dukakis, Michael",Democratic,826304,1714358,1988-Democratic,False,48.2
+348,1988,Massachusetts,MA,"Dukakis, Michael",Democratic,1401415,2632801,1988-Democratic,False,53.23
+349,1988,Massachusetts,MA,"Bush, George H.W.",Republican,1194635,2632801,1988-Republican,True,45.38
+350,1988,Michigan,MI,"Bush, George H.W.",Republican,1965486,3669163,1988-Republican,True,53.57
+351,1988,Michigan,MI,"Dukakis, Michael",Democratic,1675783,3669163,1988-Democratic,False,45.67
+352,1988,Minnesota,MN,"Dukakis, Michael",Democratic,1109471,2096790,1988-Democratic,False,52.91
+353,1988,Minnesota,MN,"Bush, George H.W.",Republican,962337,2096790,1988-Republican,True,45.9
+354,1988,Mississippi,MS,"Bush, George H.W.",Republican,557890,931527,1988-Republican,True,59.89
+355,1988,Mississippi,MS,"Dukakis, Michael",Democratic,363921,931527,1988-Democratic,False,39.07
+356,1988,Missouri,MO,"Bush, George H.W.",Republican,1084953,2093228,1988-Republican,True,51.83
+357,1988,Missouri,MO,"Dukakis, Michael",Democratic,1001619,2093228,1988-Democratic,False,47.85
+358,1988,Montana,MT,"Bush, George H.W.",Republican,190412,365674,1988-Republican,True,52.07
+359,1988,Montana,MT,"Dukakis, Michael",Democratic,168936,365674,1988-Democratic,False,46.2
+360,1988,Nebraska,NE,"Bush, George H.W.",Republican,397956,661465,1988-Republican,True,60.16
+361,1988,Nebraska,NE,"Dukakis, Michael",Democratic,259235,661465,1988-Democratic,False,39.19
+362,1988,Nevada,NV,"Bush, George H.W.",Republican,206040,343133,1988-Republican,True,60.05
+363,1988,Nevada,NV,"Dukakis, Michael",Democratic,132738,343133,1988-Democratic,False,38.68
+364,1988,New Hampshire,NH,"Bush, George H.W.",Republican,281537,450525,1988-Republican,True,62.49
+365,1988,New Hampshire,NH,"Dukakis, Michael",Democratic,163696,450525,1988-Democratic,False,36.33
+366,1988,New Jersey,NJ,"Bush, George H.W.",Republican,1743192,3099553,1988-Republican,True,56.24
+367,1988,New Jersey,NJ,"Dukakis, Michael",Democratic,1320352,3099553,1988-Democratic,False,42.6
+368,1988,New Mexico,NM,"Bush, George H.W.",Republican,270341,521387,1988-Republican,True,51.85
+369,1988,New Mexico,NM,"Dukakis, Michael",Democratic,244497,521387,1988-Democratic,False,46.89
+370,1988,New York,NY,"Dukakis, Michael",Democratic,3255487,6485683,1988-Democratic,False,50.19
+371,1988,New York,NY,"Bush, George H.W.",Republican,2838414,6485683,1988-Republican,True,43.76
+372,1988,North Carolina,NC,"Bush, George H.W.",Republican,1237258,2134370,1988-Republican,True,57.97
+373,1988,North Carolina,NC,"Dukakis, Michael",Democratic,890167,2134370,1988-Democratic,False,41.71
+374,1988,North Dakota,ND,"Bush, George H.W.",Republican,166559,297261,1988-Republican,True,56.03
+375,1988,North Dakota,ND,"Dukakis, Michael",Democratic,127739,297261,1988-Democratic,False,42.97
+376,1988,Ohio,OH,"Bush, George H.W.",Republican,2416549,4393585,1988-Republican,True,55.0
+377,1988,Ohio,OH,"Dukakis, Michael",Democratic,1939629,4393585,1988-Democratic,False,44.15
+378,1988,Oklahoma,OK,"Bush, George H.W.",Republican,678367,1171036,1988-Republican,True,57.93
+379,1988,Oklahoma,OK,"Dukakis, Michael",Democratic,483423,1171036,1988-Democratic,False,41.28
+380,1988,Oregon,OR,"Dukakis, Michael",Democratic,616206,1201694,1988-Democratic,False,51.28
+381,1988,Oregon,OR,"Bush, George H.W.",Republican,560126,1201694,1988-Republican,True,46.61
+382,1988,Pennsylvania,PA,"Bush, George H.W.",Republican,2300087,4536251,1988-Republican,True,50.7
+383,1988,Pennsylvania,PA,"Dukakis, Michael",Democratic,2194944,4536251,1988-Democratic,False,48.39
+384,1988,Rhode Island,RI,"Dukakis, Michael",Democratic,225123,404622,1988-Democratic,False,55.64
+385,1988,Rhode Island,RI,"Bush, George H.W.",Republican,177761,404622,1988-Republican,True,43.93
+386,1988,South Carolina,SC,"Bush, George H.W.",Republican,606443,986009,1988-Republican,True,61.5
+387,1988,South Carolina,SC,"Dukakis, Michael",Democratic,370554,986009,1988-Democratic,False,37.58
+388,1988,South Dakota,SD,"Bush, George H.W.",Republican,165415,312991,1988-Republican,True,52.85
+389,1988,South Dakota,SD,"Dukakis, Michael",Democratic,145560,312991,1988-Democratic,False,46.51
+390,1988,Tennessee,TN,"Bush, George H.W.",Republican,947233,1636250,1988-Republican,True,57.89
+391,1988,Tennessee,TN,"Dukakis, Michael",Democratic,679794,1636250,1988-Democratic,False,41.55
+392,1988,Texas,TX,"Bush, George H.W.",Republican,3036829,5427410,1988-Republican,True,55.95
+393,1988,Texas,TX,"Dukakis, Michael",Democratic,2352748,5427410,1988-Democratic,False,43.35
+394,1988,Utah,UT,"Bush, George H.W.",Republican,428442,647008,1988-Republican,True,66.22
+395,1988,Utah,UT,"Dukakis, Michael",Democratic,207343,647008,1988-Democratic,False,32.05
+396,1988,Vermont,VT,"Bush, George H.W.",Republican,124331,243328,1988-Republican,True,51.1
+397,1988,Vermont,VT,"Dukakis, Michael",Democratic,115775,243328,1988-Democratic,False,47.58
+398,1988,Virginia,VA,"Bush, George H.W.",Republican,1309162,2191609,1988-Republican,True,59.74
+399,1988,Virginia,VA,"Dukakis, Michael",Democratic,859799,2191609,1988-Democratic,False,39.23
+400,1988,Washington,WA,"Dukakis, Michael",Democratic,933516,1865253,1988-Democratic,False,50.05
+401,1988,Washington,WA,"Bush, George H.W.",Republican,903835,1865253,1988-Republican,True,48.46
+402,1988,West Virginia,WV,"Dukakis, Michael",Democratic,341016,653311,1988-Democratic,False,52.2
+403,1988,West Virginia,WV,"Bush, George H.W.",Republican,310065,653311,1988-Republican,True,47.46
+404,1988,Wisconsin,WI,"Dukakis, Michael",Democratic,1126794,2191608,1988-Democratic,False,51.41
+405,1988,Wisconsin,WI,"Bush, George H.W.",Republican,1047499,2191608,1988-Republican,True,47.8
+406,1988,Wyoming,WY,"Bush, George H.W.",Republican,106867,176551,1988-Republican,True,60.53
+407,1988,Wyoming,WY,"Dukakis, Michael",Democratic,67113,176551,1988-Democratic,False,38.01
+408,1992,Alabama,AL,"Bush, George H.W.",Republican,804283,1688060,1992-Republican,False,47.65
+409,1992,Alabama,AL,"Clinton, Bill",Democratic,690080,1688060,1992-Democratic,True,40.88
+410,1992,Alaska,AK,"Bush, George H.W.",Republican,102000,258506,1992-Republican,False,39.46
+411,1992,Alaska,AK,"Clinton, Bill",Democratic,78294,258506,1992-Democratic,True,30.29
+412,1992,Arizona,AZ,"Bush, George H.W.",Republican,572086,1486975,1992-Republican,False,38.47
+413,1992,Arizona,AZ,"Clinton, Bill",Democratic,543050,1486975,1992-Democratic,True,36.52
+414,1992,Arkansas,AR,"Clinton, Bill",Democratic,505823,950653,1992-Democratic,True,53.21
+415,1992,Arkansas,AR,"Bush, George H.W.",Republican,337324,950653,1992-Republican,False,35.48
+416,1992,California,CA,"Clinton, Bill",Democratic,5121325,11131721,1992-Democratic,True,46.01
+417,1992,California,CA,"Bush, George H.W.",Republican,3630574,11131721,1992-Republican,False,32.61
+418,1992,Colorado,CO,"Clinton, Bill",Democratic,629681,1569180,1992-Democratic,True,40.13
+419,1992,Colorado,CO,"Bush, George H.W.",Republican,562850,1569180,1992-Republican,False,35.87
+420,1992,Connecticut,CT,"Clinton, Bill",Democratic,682318,1616156,1992-Democratic,True,42.22
+421,1992,Connecticut,CT,"Bush, George H.W.",Republican,578313,1616156,1992-Republican,False,35.78
+422,1992,Delaware,DE,"Clinton, Bill",Democratic,126054,289620,1992-Democratic,True,43.52
+423,1992,Delaware,DE,"Bush, George H.W.",Republican,102313,289620,1992-Republican,False,35.33
+424,1992,District of Columbia,DC,"Clinton, Bill",Democratic,192619,227572,1992-Democratic,True,84.64
+425,1992,District of Columbia,DC,"Bush, George H.W.",Republican,20698,227572,1992-Republican,False,9.1
+426,1992,Florida,FL,"Bush, George H.W.",Republican,2173310,5313392,1992-Republican,False,40.9
+427,1992,Florida,FL,"Clinton, Bill",Democratic,2071698,5313392,1992-Democratic,True,38.99
+428,1992,Georgia,GA,"Clinton, Bill",Democratic,1008966,2321133,1992-Democratic,True,43.47
+429,1992,Georgia,GA,"Bush, George H.W.",Republican,995252,2321133,1992-Republican,False,42.88
+430,1992,Hawaii,HI,"Clinton, Bill",Democratic,179310,372842,1992-Democratic,True,48.09
+431,1992,Hawaii,HI,"Bush, George H.W.",Republican,136822,372842,1992-Republican,False,36.7
+432,1992,Idaho,ID,"Bush, George H.W.",Republican,202645,482114,1992-Republican,False,42.03
+433,1992,Idaho,ID,"Clinton, Bill",Democratic,137013,482114,1992-Democratic,True,28.42
+434,1992,Illinois,IL,"Clinton, Bill",Democratic,2453350,5050157,1992-Democratic,True,48.58
+435,1992,Illinois,IL,"Bush, George H.W.",Republican,1734096,5050157,1992-Republican,False,34.34
+436,1992,Indiana,IN,"Bush, George H.W.",Republican,989375,2305871,1992-Republican,False,42.91
+437,1992,Indiana,IN,"Clinton, Bill",Democratic,848420,2305871,1992-Democratic,True,36.79
+438,1992,Iowa,IA,"Clinton, Bill",Democratic,586353,1354607,1992-Democratic,True,43.29
+439,1992,Iowa,IA,"Bush, George H.W.",Republican,504891,1354607,1992-Republican,False,37.27
+440,1992,Kansas,KS,"Bush, George H.W.",Republican,449951,1157236,1992-Republican,False,38.88
+441,1992,Kansas,KS,"Clinton, Bill",Democratic,390434,1157236,1992-Democratic,True,33.74
+442,1992,Kentucky,KY,"Clinton, Bill",Democratic,665104,1492900,1992-Democratic,True,44.55
+443,1992,Kentucky,KY,"Bush, George H.W.",Republican,617178,1492900,1992-Republican,False,41.34
+444,1992,Louisiana,LA,"Clinton, Bill",Democratic,815971,1790017,1992-Democratic,True,45.58
+445,1992,Louisiana,LA,"Bush, George H.W.",Republican,733386,1790017,1992-Republican,False,40.97
+446,1992,Maine,ME,"Clinton, Bill",Democratic,263420,679499,1992-Democratic,True,38.77
+447,1992,Maine,ME,"Bush, George H.W.",Republican,206504,679499,1992-Republican,False,30.39
+448,1992,Maryland,MD,"Clinton, Bill",Democratic,988571,1984580,1992-Democratic,True,49.81
+449,1992,Maryland,MD,"Bush, George H.W.",Republican,707094,1984580,1992-Republican,False,35.63
+450,1992,Massachusetts,MA,"Clinton, Bill",Democratic,1318639,2773664,1992-Democratic,True,47.54
+451,1992,Massachusetts,MA,"Bush, George H.W.",Republican,805039,2773664,1992-Republican,False,29.02
+452,1992,Michigan,MI,"Clinton, Bill",Democratic,1871182,4274673,1992-Democratic,True,43.77
+453,1992,Michigan,MI,"Bush, George H.W.",Republican,1554940,4274673,1992-Republican,False,36.38
+454,1992,Minnesota,MN,"Clinton, Bill",Democratic,1020997,2347948,1992-Democratic,True,43.48
+455,1992,Minnesota,MN,"Bush, George H.W.",Republican,747841,2347948,1992-Republican,False,31.85
+456,1992,Mississippi,MS,"Bush, George H.W.",Republican,487793,981793,1992-Republican,False,49.68
+457,1992,Mississippi,MS,"Clinton, Bill",Democratic,400258,981793,1992-Democratic,True,40.77
+458,1992,Missouri,MO,"Clinton, Bill",Democratic,1053873,2391270,1992-Democratic,True,44.07
+459,1992,Missouri,MO,"Bush, George H.W.",Republican,811159,2391270,1992-Republican,False,33.92
+460,1992,Montana,MT,"Clinton, Bill",Democratic,154507,410583,1992-Democratic,True,37.63
+461,1992,Montana,MT,"Bush, George H.W.",Republican,144207,410583,1992-Republican,False,35.12
+462,1992,Nebraska,NE,"Bush, George H.W.",Republican,343678,737546,1992-Republican,False,46.6
+463,1992,Nebraska,NE,"Clinton, Bill",Democratic,216864,737546,1992-Democratic,True,29.4
+464,1992,Nevada,NV,"Clinton, Bill",Democratic,189148,506318,1992-Democratic,True,37.36
+465,1992,Nevada,NV,"Bush, George H.W.",Republican,175828,506318,1992-Republican,False,34.73
+466,1992,New Hampshire,NH,"Clinton, Bill",Democratic,209040,537215,1992-Democratic,True,38.91
+467,1992,New Hampshire,NH,"Bush, George H.W.",Republican,202484,537215,1992-Republican,False,37.69
+468,1992,New Jersey,NJ,"Clinton, Bill",Democratic,1436206,3343594,1992-Democratic,True,42.95
+469,1992,New Jersey,NJ,"Bush, George H.W.",Republican,1356865,3343594,1992-Republican,False,40.58
+470,1992,New Mexico,NM,"Clinton, Bill",Democratic,261617,569986,1992-Democratic,True,45.9
+471,1992,New Mexico,NM,"Bush, George H.W.",Republican,212824,569986,1992-Republican,False,37.34
+472,1992,New York,NY,"Clinton, Bill",Democratic,3346894,7079432,1992-Democratic,True,47.28
+473,1992,New York,NY,"Bush, George H.W.",Republican,2041690,7079432,1992-Republican,False,28.84
+474,1992,North Carolina,NC,"Bush, George H.W.",Republican,1134661,2611850,1992-Republican,False,43.44
+475,1992,North Carolina,NC,"Clinton, Bill",Democratic,1114042,2611850,1992-Democratic,True,42.65
+476,1992,North Dakota,ND,"Bush, George H.W.",Republican,136244,308133,1992-Republican,False,44.22
+477,1992,North Dakota,ND,"Clinton, Bill",Democratic,99168,308133,1992-Democratic,True,32.18
+478,1992,Ohio,OH,"Clinton, Bill",Democratic,1984942,4939967,1992-Democratic,True,40.18
+479,1992,Ohio,OH,"Bush, George H.W.",Republican,1894310,4939967,1992-Republican,False,38.35
+480,1992,Oklahoma,OK,"Bush, George H.W.",Republican,592929,1390359,1992-Republican,False,42.65
+481,1992,Oklahoma,OK,"Clinton, Bill",Democratic,473066,1390359,1992-Democratic,True,34.02
+482,1992,Oregon,OR,"Clinton, Bill",Democratic,621314,1462643,1992-Democratic,True,42.48
+483,1992,Oregon,OR,"Bush, George H.W.",Republican,475757,1462643,1992-Republican,False,32.53
+484,1992,Pennsylvania,PA,"Clinton, Bill",Democratic,2239164,4959810,1992-Democratic,True,45.15
+485,1992,Pennsylvania,PA,"Bush, George H.W.",Republican,1791841,4959810,1992-Republican,False,36.13
+486,1992,Rhode Island,RI,"Clinton, Bill",Democratic,213299,453365,1992-Democratic,True,47.05
+487,1992,Rhode Island,RI,"Bush, George H.W.",Republican,131601,453365,1992-Republican,False,29.03
+488,1992,South Carolina,SC,"Bush, George H.W.",Republican,577507,1228912,1992-Republican,False,46.99
+489,1992,South Carolina,SC,"Clinton, Bill",Democratic,525514,1228912,1992-Democratic,True,42.76
+490,1992,South Dakota,SD,"Bush, George H.W.",Republican,136718,336254,1992-Republican,False,40.66
+491,1992,South Dakota,SD,"Clinton, Bill",Democratic,124888,336254,1992-Democratic,True,37.14
+492,1992,Tennessee,TN,"Clinton, Bill",Democratic,933521,1982638,1992-Democratic,True,47.08
+493,1992,Tennessee,TN,"Bush, George H.W.",Republican,841300,1982638,1992-Republican,False,42.43
+494,1992,Texas,TX,"Bush, George H.W.",Republican,2496071,6154018,1992-Republican,False,40.56
+495,1992,Texas,TX,"Clinton, Bill",Democratic,2281815,6154018,1992-Democratic,True,37.08
+496,1992,Utah,UT,"Bush, George H.W.",Republican,322632,743998,1992-Republican,False,43.36
+497,1992,Utah,UT,"Clinton, Bill",Democratic,183429,743998,1992-Democratic,True,24.65
+498,1992,Vermont,VT,"Clinton, Bill",Democratic,133592,289701,1992-Democratic,True,46.11
+499,1992,Vermont,VT,"Bush, George H.W.",Republican,88122,289701,1992-Republican,False,30.42
+500,1992,Virginia,VA,"Bush, George H.W.",Republican,1150517,2559129,1992-Republican,False,44.96
+501,1992,Virginia,VA,"Clinton, Bill",Democratic,1038650,2559129,1992-Democratic,True,40.59
+502,1992,Washington,WA,"Clinton, Bill",Democratic,993037,2287565,1992-Democratic,True,43.41
+503,1992,Washington,WA,"Bush, George H.W.",Republican,731234,2287565,1992-Republican,False,31.97
+504,1992,West Virginia,WV,"Clinton, Bill",Democratic,331001,683677,1992-Democratic,True,48.41
+505,1992,West Virginia,WV,"Bush, George H.W.",Republican,241974,683677,1992-Republican,False,35.39
+506,1992,Wisconsin,WI,"Clinton, Bill",Democratic,1041066,2531064,1992-Democratic,True,41.13
+507,1992,Wisconsin,WI,"Bush, George H.W.",Republican,930855,2531064,1992-Republican,False,36.78
+508,1992,Wyoming,WY,"Bush, George H.W.",Republican,79347,199884,1992-Republican,False,39.7
+509,1992,Wyoming,WY,"Clinton, Bill",Democratic,68160,199884,1992-Democratic,True,34.1
+510,1996,Alabama,AL,"Dole, Robert",Republican,769044,1534349,1996-Republican,False,50.12
+511,1996,Alabama,AL,"Clinton, Bill",Democratic,662165,1534349,1996-Democratic,True,43.16
+512,1996,Alaska,AK,"Dole, Robert",Republican,122746,241620,1996-Republican,False,50.8
+513,1996,Alaska,AK,"Clinton, Bill",Democratic,80380,241620,1996-Democratic,True,33.27
+514,1996,Arizona,AZ,"Clinton, Bill",Democratic,653288,1404405,1996-Democratic,True,46.52
+515,1996,Arizona,AZ,"Dole, Robert",Republican,622073,1404405,1996-Republican,False,44.29
+516,1996,Arkansas,AR,"Clinton, Bill",Democratic,475171,884262,1996-Democratic,True,53.74
+517,1996,Arkansas,AR,"Dole, Robert",Republican,325416,884262,1996-Republican,False,36.8
+518,1996,California,CA,"Clinton, Bill",Democratic,5119835,10019469,1996-Democratic,True,51.1
+519,1996,California,CA,"Dole, Robert",Republican,3828381,10019469,1996-Republican,False,38.21
+520,1996,Colorado,CO,"Dole, Robert",Republican,691848,1510702,1996-Republican,False,45.8
+521,1996,Colorado,CO,"Clinton, Bill",Democratic,671152,1510702,1996-Democratic,True,44.43
+522,1996,Connecticut,CT,"Clinton, Bill",Democratic,735740,1392614,1996-Democratic,True,52.83
+523,1996,Connecticut,CT,"Dole, Robert",Republican,483109,1392614,1996-Republican,False,34.69
+524,1996,Delaware,DE,"Clinton, Bill",Democratic,140355,270810,1996-Democratic,True,51.83
+525,1996,Delaware,DE,"Dole, Robert",Republican,99062,270810,1996-Republican,False,36.58
+526,1996,District of Columbia,DC,"Clinton, Bill",Democratic,158220,185726,1996-Democratic,True,85.19
+527,1996,District of Columbia,DC,"Dole, Robert",Republican,17339,185726,1996-Republican,False,9.34
+528,1996,Florida,FL,"Clinton, Bill",Democratic,2546870,5303154,1996-Democratic,True,48.03
+529,1996,Florida,FL,"Dole, Robert",Republican,2244536,5303154,1996-Republican,False,42.32
+530,1996,Georgia,GA,"Dole, Robert",Republican,1080843,2298899,1996-Republican,False,47.02
+531,1996,Georgia,GA,"Clinton, Bill",Democratic,1053849,2298899,1996-Democratic,True,45.84
+532,1996,Hawaii,HI,"Clinton, Bill",Democratic,205012,360120,1996-Democratic,True,56.93
+533,1996,Hawaii,HI,"Dole, Robert",Republican,113943,360120,1996-Republican,False,31.64
+534,1996,Idaho,ID,"Dole, Robert",Republican,256595,491711,1996-Republican,False,52.18
+535,1996,Idaho,ID,"Clinton, Bill",Democratic,165443,491711,1996-Democratic,True,33.65
+536,1996,Illinois,IL,"Clinton, Bill",Democratic,2341744,4311391,1996-Democratic,True,54.32
+537,1996,Illinois,IL,"Dole, Robert",Republican,1587021,4311391,1996-Republican,False,36.81
+538,1996,Indiana,IN,"Dole, Robert",Republican,1006693,2135431,1996-Republican,False,47.14
+539,1996,Indiana,IN,"Clinton, Bill",Democratic,887424,2135431,1996-Democratic,True,41.56
+540,1996,Iowa,IA,"Clinton, Bill",Democratic,620258,1234075,1996-Democratic,True,50.26
+541,1996,Iowa,IA,"Dole, Robert",Republican,492644,1234075,1996-Republican,False,39.92
+542,1996,Kansas,KS,"Dole, Robert",Republican,583245,1074300,1996-Republican,False,54.29
+543,1996,Kansas,KS,"Clinton, Bill",Democratic,387659,1074300,1996-Democratic,True,36.08
+544,1996,Kentucky,KY,"Clinton, Bill",Democratic,636614,1388708,1996-Democratic,True,45.84
+545,1996,Kentucky,KY,"Dole, Robert",Republican,623283,1388708,1996-Republican,False,44.88
+546,1996,Louisiana,LA,"Clinton, Bill",Democratic,927837,1783959,1996-Democratic,True,52.01
+547,1996,Louisiana,LA,"Dole, Robert",Republican,712586,1783959,1996-Republican,False,39.94
+548,1996,Maine,ME,"Clinton, Bill",Democratic,312788,605897,1996-Democratic,True,51.62
+549,1996,Maine,ME,"Dole, Robert",Republican,186378,605897,1996-Republican,False,30.76
+550,1996,Maryland,MD,"Clinton, Bill",Democratic,966207,1780870,1996-Democratic,True,54.25
+551,1996,Maryland,MD,"Dole, Robert",Republican,681530,1780870,1996-Republican,False,38.27
+552,1996,Massachusetts,MA,"Clinton, Bill",Democratic,1571509,2556459,1996-Democratic,True,61.47
+553,1996,Massachusetts,MA,"Dole, Robert",Republican,718058,2556459,1996-Republican,False,28.09
+554,1996,Michigan,MI,"Clinton, Bill",Democratic,1989653,3848844,1996-Democratic,True,51.69
+555,1996,Michigan,MI,"Dole, Robert",Republican,1481212,3848844,1996-Republican,False,38.48
+556,1996,Minnesota,MN,"Clinton, Bill",Democratic,1120380,2192492,1996-Democratic,True,51.1
+557,1996,Minnesota,MN,"Dole, Robert",Republican,766395,2192492,1996-Republican,False,34.96
+558,1996,Mississippi,MS,"Dole, Robert",Republican,439838,893857,1996-Republican,False,49.21
+559,1996,Mississippi,MS,"Clinton, Bill",Democratic,394022,893857,1996-Democratic,True,44.08
+560,1996,Missouri,MO,"Clinton, Bill",Democratic,1025935,2158065,1996-Democratic,True,47.54
+561,1996,Missouri,MO,"Dole, Robert",Republican,890016,2158065,1996-Republican,False,41.24
+562,1996,Montana,MT,"Dole, Robert",Republican,179652,407083,1996-Republican,False,44.13
+563,1996,Montana,MT,"Clinton, Bill",Democratic,167922,407083,1996-Democratic,True,41.25
+564,1996,Nebraska,NE,"Dole, Robert",Republican,363467,677415,1996-Republican,False,53.65
+565,1996,Nebraska,NE,"Clinton, Bill",Democratic,236761,677415,1996-Democratic,True,34.95
+566,1996,Nevada,NV,"Clinton, Bill",Democratic,203974,464279,1996-Democratic,True,43.93
+567,1996,Nevada,NV,"Dole, Robert",Republican,199244,464279,1996-Republican,False,42.91
+568,1996,New Hampshire,NH,"Clinton, Bill",Democratic,246166,496597,1996-Democratic,True,49.57
+569,1996,New Hampshire,NH,"Dole, Robert",Republican,196486,496597,1996-Republican,False,39.57
+570,1996,New Jersey,NJ,"Clinton, Bill",Democratic,1652361,3075860,1996-Democratic,True,53.72
+571,1996,New Jersey,NJ,"Dole, Robert",Republican,1103099,3075860,1996-Republican,False,35.86
+572,1996,New Mexico,NM,"Clinton, Bill",Democratic,273495,556074,1996-Democratic,True,49.18
+573,1996,New Mexico,NM,"Dole, Robert",Republican,232751,556074,1996-Republican,False,41.86
+574,1996,New York,NY,"Clinton, Bill",Democratic,3649630,6439129,1996-Democratic,True,56.68
+575,1996,New York,NY,"Dole, Robert",Republican,1738707,6439129,1996-Republican,False,27.0
+576,1996,North Carolina,NC,"Dole, Robert",Republican,1225938,2515807,1996-Republican,False,48.73
+577,1996,North Carolina,NC,"Clinton, Bill",Democratic,1107849,2515807,1996-Democratic,True,44.04
+578,1996,North Dakota,ND,"Dole, Robert",Republican,125050,266411,1996-Republican,False,46.94
+579,1996,North Dakota,ND,"Clinton, Bill",Democratic,106905,266411,1996-Democratic,True,40.13
+580,1996,Ohio,OH,"Clinton, Bill",Democratic,2148222,4534434,1996-Democratic,True,47.38
+581,1996,Ohio,OH,"Dole, Robert",Republican,1859883,4534434,1996-Republican,False,41.02
+582,1996,Oklahoma,OK,"Dole, Robert",Republican,582315,1206713,1996-Republican,False,48.26
+583,1996,Oklahoma,OK,"Clinton, Bill",Democratic,488105,1206713,1996-Democratic,True,40.45
+584,1996,Oregon,OR,"Clinton, Bill",Democratic,649641,1377760,1996-Democratic,True,47.15
+585,1996,Oregon,OR,"Dole, Robert",Republican,538152,1377760,1996-Republican,False,39.06
+586,1996,Pennsylvania,PA,"Clinton, Bill",Democratic,2215819,4501307,1996-Democratic,True,49.23
+587,1996,Pennsylvania,PA,"Dole, Robert",Republican,1801169,4501307,1996-Republican,False,40.01
+588,1996,Rhode Island,RI,"Clinton, Bill",Democratic,233050,390247,1996-Democratic,True,59.72
+589,1996,Rhode Island,RI,"Dole, Robert",Republican,104683,390247,1996-Republican,False,26.82
+590,1996,South Carolina,SC,"Dole, Robert",Republican,573339,1150182,1996-Republican,False,49.85
+591,1996,South Carolina,SC,"Clinton, Bill",Democratic,506152,1150182,1996-Democratic,True,44.01
+592,1996,South Dakota,SD,"Dole, Robert",Republican,150543,323826,1996-Republican,False,46.49
+593,1996,South Dakota,SD,"Clinton, Bill",Democratic,139333,323826,1996-Democratic,True,43.03
+594,1996,Tennessee,TN,"Clinton, Bill",Democratic,909146,1894105,1996-Democratic,True,48.0
+595,1996,Tennessee,TN,"Dole, Robert",Republican,863530,1894105,1996-Republican,False,45.59
+596,1996,Texas,TX,"Dole, Robert",Republican,2736167,5611644,1996-Republican,False,48.76
+597,1996,Texas,TX,"Clinton, Bill",Democratic,2459683,5611644,1996-Democratic,True,43.83
+598,1996,Utah,UT,"Dole, Robert",Republican,361911,665629,1996-Republican,False,54.37
+599,1996,Utah,UT,"Clinton, Bill",Democratic,221633,665629,1996-Democratic,True,33.3
+600,1996,Vermont,VT,"Clinton, Bill",Democratic,137894,258449,1996-Democratic,True,53.35
+601,1996,Vermont,VT,"Dole, Robert",Republican,80352,258449,1996-Republican,False,31.09
+602,1996,Virginia,VA,"Dole, Robert",Republican,1138350,2416642,1996-Republican,False,47.1
+603,1996,Virginia,VA,"Clinton, Bill",Democratic,1091060,2416642,1996-Democratic,True,45.15
+604,1996,Washington,WA,"Clinton, Bill",Democratic,1123323,2253837,1996-Democratic,True,49.84
+605,1996,Washington,WA,"Dole, Robert",Republican,840712,2253837,1996-Republican,False,37.3
+606,1996,West Virginia,WV,"Clinton, Bill",Democratic,327812,636459,1996-Democratic,True,51.51
+607,1996,West Virginia,WV,"Dole, Robert",Republican,233946,636459,1996-Republican,False,36.76
+608,1996,Wisconsin,WI,"Clinton, Bill",Democratic,1071971,2196169,1996-Democratic,True,48.81
+609,1996,Wisconsin,WI,"Dole, Robert",Republican,845029,2196169,1996-Republican,False,38.48
+610,1996,Wyoming,WY,"Dole, Robert",Republican,105388,211571,1996-Republican,False,49.81
+611,1996,Wyoming,WY,"Clinton, Bill",Democratic,77934,211571,1996-Democratic,True,36.84
+612,2000,Alabama,AL,"Bush, George W.",Republican,941173,1666272,2000-Republican,True,56.48
+613,2000,Alabama,AL,"Gore, Al",Democratic,692611,1666272,2000-Democratic,False,41.57
+614,2000,Alaska,AK,"Bush, George W.",Republican,167398,285560,2000-Republican,True,58.62
+615,2000,Alaska,AK,"Gore, Al",Democratic,79004,285560,2000-Democratic,False,27.67
+616,2000,Arizona,AZ,"Bush, George W.",Republican,781652,1532016,2000-Republican,True,51.02
+617,2000,Arizona,AZ,"Gore, Al",Democratic,685341,1532016,2000-Democratic,False,44.73
+618,2000,Arkansas,AR,"Bush, George W.",Republican,472940,921781,2000-Republican,True,51.31
+619,2000,Arkansas,AR,"Gore, Al",Democratic,422768,921781,2000-Democratic,False,45.86
+620,2000,California,CA,"Gore, Al",Democratic,5861203,10965822,2000-Democratic,False,53.45
+621,2000,California,CA,"Bush, George W.",Republican,4567429,10965822,2000-Republican,True,41.65
+622,2000,Colorado,CO,"Bush, George W.",Republican,883748,1741368,2000-Republican,True,50.75
+623,2000,Colorado,CO,"Gore, Al",Democratic,738227,1741368,2000-Democratic,False,42.39
+624,2000,Connecticut,CT,"Gore, Al",Democratic,816015,1459525,2000-Democratic,False,55.91
+625,2000,Connecticut,CT,"Bush, George W.",Republican,561094,1459525,2000-Republican,True,38.44
+626,2000,Delaware,DE,"Gore, Al",Democratic,180068,327529,2000-Democratic,False,54.98
+627,2000,Delaware,DE,"Bush, George W.",Republican,137288,327529,2000-Republican,True,41.92
+628,2000,District of Columbia,DC,"Gore, Al",Democratic,171923,201894,2000-Democratic,False,85.16
+629,2000,District of Columbia,DC,"Bush, George W.",Republican,18073,201894,2000-Republican,True,8.95
+630,2000,Florida,FL,"Bush, George W.",Republican,2912790,5963110,2000-Republican,True,48.85
+631,2000,Florida,FL,"Gore, Al",Democratic,2912253,5963110,2000-Democratic,False,48.84
+632,2000,Georgia,GA,"Bush, George W.",Republican,1419720,2583208,2000-Republican,True,54.96
+633,2000,Georgia,GA,"Gore, Al",Democratic,1116230,2583208,2000-Democratic,False,43.21
+634,2000,Hawaii,HI,"Gore, Al",Democratic,205286,367951,2000-Democratic,False,55.79
+635,2000,Hawaii,HI,"Bush, George W.",Republican,137845,367951,2000-Republican,True,37.46
+636,2000,Idaho,ID,"Bush, George W.",Republican,336937,501615,2000-Republican,True,67.17
+637,2000,Idaho,ID,"Gore, Al",Democratic,138637,501615,2000-Democratic,False,27.64
+638,2000,Illinois,IL,"Gore, Al",Democratic,2589026,4742108,2000-Democratic,False,54.6
+639,2000,Illinois,IL,"Bush, George W.",Republican,2019421,4742108,2000-Republican,True,42.58
+640,2000,Indiana,IN,"Bush, George W.",Republican,1245836,2199302,2000-Republican,True,56.65
+641,2000,Indiana,IN,"Gore, Al",Democratic,901980,2199302,2000-Democratic,False,41.01
+642,2000,Iowa,IA,"Gore, Al",Democratic,638517,1353022,2000-Democratic,False,47.19
+643,2000,Iowa,IA,"Bush, George W.",Republican,634373,1353022,2000-Republican,True,46.89
+644,2000,Kansas,KS,"Bush, George W.",Republican,622332,1072216,2000-Republican,True,58.04
+645,2000,Kansas,KS,"Gore, Al",Democratic,399276,1072216,2000-Democratic,False,37.24
+646,2000,Kentucky,KY,"Bush, George W.",Republican,872520,1544106,2000-Republican,True,56.51
+647,2000,Kentucky,KY,"Gore, Al",Democratic,638923,1544106,2000-Democratic,False,41.38
+648,2000,Louisiana,LA,"Bush, George W.",Republican,927871,1765656,2000-Republican,True,52.55
+649,2000,Louisiana,LA,"Gore, Al",Democratic,792344,1765656,2000-Democratic,False,44.88
+650,2000,Maine,ME,"Gore, Al",Democratic,319951,651817,2000-Democratic,False,49.09
+651,2000,Maine,ME,"Bush, George W.",Republican,286616,651817,2000-Republican,True,43.97
+652,2000,Maryland,MD,"Gore, Al",Democratic,1144008,2025212,2000-Democratic,False,56.49
+653,2000,Maryland,MD,"Bush, George W.",Republican,813827,2025212,2000-Republican,True,40.18
+654,2000,Massachusetts,MA,"Gore, Al",Democratic,1616487,2733964,2000-Democratic,False,59.13
+655,2000,Massachusetts,MA,"Bush, George W.",Republican,878502,2733964,2000-Republican,True,32.13
+656,2000,Michigan,MI,"Gore, Al",Democratic,2170418,4232501,2000-Democratic,False,51.28
+657,2000,Michigan,MI,"Bush, George W.",Republican,1953139,4232501,2000-Republican,True,46.15
+658,2000,Minnesota,MN,"Bush, George W.",Republican,1109659,2438685,2000-Republican,True,45.5
+659,2000,Mississippi,MS,"Bush, George W.",Republican,572844,994184,2000-Republican,True,57.62
+660,2000,Mississippi,MS,"Gore, Al",Democratic,404614,994184,2000-Democratic,False,40.7
+661,2000,Missouri,MO,"Bush, George W.",Republican,1189924,2359892,2000-Republican,True,50.42
+662,2000,Missouri,MO,"Gore, Al",Democratic,1111138,2359892,2000-Democratic,False,47.08
+663,2000,Montana,MT,"Bush, George W.",Republican,240178,410986,2000-Republican,True,58.44
+664,2000,Montana,MT,"Gore, Al",Democratic,137126,410986,2000-Democratic,False,33.37
+665,2000,Nebraska,NE,"Bush, George W.",Republican,433862,697019,2000-Republican,True,62.25
+666,2000,Nebraska,NE,"Gore, Al",Democratic,231780,697019,2000-Democratic,False,33.25
+667,2000,Nevada,NV,"Bush, George W.",Republican,301575,609426,2000-Republican,True,49.49
+668,2000,Nevada,NV,"Gore, Al",Democratic,279978,609426,2000-Democratic,False,45.94
+669,2000,New Hampshire,NH,"Bush, George W.",Republican,273559,569081,2000-Republican,True,48.07
+670,2000,New Hampshire,NH,"Gore, Al",Democratic,266348,569081,2000-Democratic,False,46.8
+671,2000,New Jersey,NJ,"Gore, Al",Democratic,1788850,3187226,2000-Democratic,False,56.13
+672,2000,New Jersey,NJ,"Bush, George W.",Republican,1284173,3187226,2000-Republican,True,40.29
+673,2000,New Mexico,NM,"Gore, Al",Democratic,286783,598605,2000-Democratic,False,47.91
+674,2000,New Mexico,NM,"Bush, George W.",Republican,286417,598605,2000-Republican,True,47.85
+675,2000,New York,NY,"Gore, Al",Democratic,3942215,6960215,2000-Democratic,False,56.64
+676,2000,New York,NY,"Bush, George W.",Republican,2258577,6960215,2000-Republican,True,32.45
+677,2000,North Carolina,NC,"Bush, George W.",Republican,1631163,2914990,2000-Republican,True,55.96
+678,2000,North Carolina,NC,"Gore, Al",Democratic,1257692,2914990,2000-Democratic,False,43.15
+679,2000,North Dakota,ND,"Bush, George W.",Republican,174852,288256,2000-Republican,True,60.66
+680,2000,North Dakota,ND,"Gore, Al",Democratic,95284,288256,2000-Democratic,False,33.06
+681,2000,Ohio,OH,"Bush, George W.",Republican,2350363,4701998,2000-Republican,True,49.99
+682,2000,Ohio,OH,"Gore, Al",Democratic,2183628,4701998,2000-Democratic,False,46.44
+683,2000,Oklahoma,OK,"Bush, George W.",Republican,744337,1234229,2000-Republican,True,60.31
+684,2000,Oklahoma,OK,"Gore, Al",Democratic,474276,1234229,2000-Democratic,False,38.43
+685,2000,Oregon,OR,"Gore, Al",Democratic,720342,1533950,2000-Democratic,False,46.96
+686,2000,Oregon,OR,"Bush, George W.",Republican,713577,1533950,2000-Republican,True,46.52
+687,2000,Pennsylvania,PA,"Gore, Al",Democratic,2485967,4912185,2000-Democratic,False,50.61
+688,2000,Pennsylvania,PA,"Bush, George W.",Republican,2281127,4912185,2000-Republican,True,46.44
+689,2000,Rhode Island,RI,"Gore, Al",Democratic,249508,409112,2000-Democratic,False,60.99
+690,2000,Rhode Island,RI,"Bush, George W.",Republican,130555,409112,2000-Republican,True,31.91
+691,2000,South Carolina,SC,"Bush, George W.",Republican,786892,1383902,2000-Republican,True,56.86
+692,2000,South Carolina,SC,"Gore, Al",Democratic,566037,1383902,2000-Democratic,False,40.9
+693,2000,South Dakota,SD,"Bush, George W.",Republican,190700,316269,2000-Republican,True,60.3
+694,2000,South Dakota,SD,"Gore, Al",Democratic,118804,316269,2000-Democratic,False,37.56
+695,2000,Tennessee,TN,"Bush, George W.",Republican,1061949,2076181,2000-Republican,True,51.15
+696,2000,Tennessee,TN,"Gore, Al",Democratic,981720,2076181,2000-Democratic,False,47.28
+697,2000,Texas,TX,"Bush, George W.",Republican,3799639,6407637,2000-Republican,True,59.3
+698,2000,Texas,TX,"Gore, Al",Democratic,2433746,6407637,2000-Democratic,False,37.98
+699,2000,Utah,UT,"Bush, George W.",Republican,515096,770754,2000-Republican,True,66.83
+700,2000,Utah,UT,"Gore, Al",Democratic,203053,770754,2000-Democratic,False,26.34
+701,2000,Vermont,VT,"Gore, Al",Democratic,149022,294308,2000-Democratic,False,50.63
+702,2000,Vermont,VT,"Bush, George W.",Republican,119775,294308,2000-Republican,True,40.7
+703,2000,Virginia,VA,"Bush, George W.",Republican,1437490,2739447,2000-Republican,True,52.47
+704,2000,Virginia,VA,"Gore, Al",Democratic,1217290,2739447,2000-Democratic,False,44.44
+705,2000,Washington,WA,"Gore, Al",Democratic,1247652,2487433,2000-Democratic,False,50.16
+706,2000,Washington,WA,"Bush, George W.",Republican,1108864,2487433,2000-Republican,True,44.58
+707,2000,West Virginia,WV,"Bush, George W.",Republican,336475,648124,2000-Republican,True,51.92
+708,2000,West Virginia,WV,"Gore, Al",Democratic,295497,648124,2000-Democratic,False,45.59
+709,2000,Wisconsin,WI,"Gore, Al",Democratic,1242987,2598607,2000-Democratic,False,47.83
+710,2000,Wisconsin,WI,"Bush, George W.",Republican,1237279,2598607,2000-Republican,True,47.61
+711,2000,Wyoming,WY,"Bush, George W.",Republican,147947,213726,2000-Republican,True,69.22
+712,2000,Wyoming,WY,"Gore, Al",Democratic,60481,213726,2000-Democratic,False,28.3
+713,2004,Alabama,AL,"Bush, George W.",Republican,1176394,1883415,2004-Republican,True,62.46
+714,2004,Alabama,AL,"Kerry, John",Democratic,693933,1883415,2004-Democratic,False,36.84
+715,2004,Alaska,AK,"Bush, George W.",Republican,190889,312598,2004-Republican,True,61.07
+716,2004,Alaska,AK,"Kerry, John",Democratic,111025,312598,2004-Democratic,False,35.52
+717,2004,Arizona,AZ,"Bush, George W.",Republican,1104294,2012585,2004-Republican,True,54.87
+718,2004,Arizona,AZ,"Kerry, John",Democratic,893524,2012585,2004-Democratic,False,44.4
+719,2004,Arkansas,AR,"Bush, George W.",Republican,572898,1054945,2004-Republican,True,54.31
+720,2004,Arkansas,AR,"Kerry, John",Democratic,469953,1054945,2004-Democratic,False,44.55
+721,2004,California,CA,"Kerry, John",Democratic,6745485,12421353,2004-Democratic,False,54.31
+722,2004,California,CA,"Bush, George W.",Republican,5509826,12421353,2004-Republican,True,44.36
+723,2004,Colorado,CO,"Bush, George W.",Republican,1101255,2129630,2004-Republican,True,51.71
+724,2004,Colorado,CO,"Kerry, John",Democratic,1001732,2129630,2004-Democratic,False,47.04
+725,2004,Connecticut,CT,"Kerry, John",Democratic,857488,1578769,2004-Democratic,False,54.31
+726,2004,Connecticut,CT,"Bush, George W.",Republican,693826,1578769,2004-Republican,True,43.95
+727,2004,Delaware,DE,"Kerry, John",Democratic,200152,375190,2004-Democratic,False,53.35
+728,2004,Delaware,DE,"Bush, George W.",Republican,171660,375190,2004-Republican,True,45.75
+729,2004,District of Columbia,DC,"Kerry, John",Democratic,202970,227586,2004-Democratic,False,89.18
+730,2004,District of Columbia,DC,"Bush, George W.",Republican,21256,227586,2004-Republican,True,9.34
+731,2004,Florida,FL,"Bush, George W.",Republican,3964522,7609810,2004-Republican,True,52.1
+732,2004,Florida,FL,"Kerry, John",Democratic,3583544,7609810,2004-Democratic,False,47.09
+733,2004,Georgia,GA,"Bush, George W.",Republican,1914254,3301875,2004-Republican,True,57.97
+734,2004,Georgia,GA,"Kerry, John",Democratic,1366149,3301875,2004-Democratic,False,41.37
+735,2004,Hawaii,HI,"Kerry, John",Democratic,231708,429013,2004-Democratic,False,54.01
+736,2004,Hawaii,HI,"Bush, George W.",Republican,194191,429013,2004-Republican,True,45.26
+737,2004,Idaho,ID,"Bush, George W.",Republican,409235,598376,2004-Republican,True,68.39
+738,2004,Idaho,ID,"Kerry, John",Democratic,181098,598376,2004-Democratic,False,30.26
+739,2004,Illinois,IL,"Kerry, John",Democratic,2891550,5274322,2004-Democratic,False,54.82
+740,2004,Illinois,IL,"Bush, George W.",Republican,2345946,5274322,2004-Republican,True,44.48
+741,2004,Indiana,IN,"Bush, George W.",Republican,1479438,2468002,2004-Republican,True,59.94
+742,2004,Indiana,IN,"Kerry, John",Democratic,969011,2468002,2004-Democratic,False,39.26
+743,2004,Iowa,IA,"Bush, George W.",Republican,751957,1506908,2004-Republican,True,49.9
+744,2004,Iowa,IA,"Kerry, John",Democratic,741898,1506908,2004-Democratic,False,49.23
+745,2004,Kansas,KS,"Bush, George W.",Republican,736456,1187756,2004-Republican,True,62.0
+746,2004,Kansas,KS,"Kerry, John",Democratic,434993,1187756,2004-Democratic,False,36.62
+747,2004,Kentucky,KY,"Bush, George W.",Republican,1069439,1795882,2004-Republican,True,59.55
+748,2004,Kentucky,KY,"Kerry, John",Democratic,712733,1795882,2004-Democratic,False,39.69
+749,2004,Louisiana,LA,"Bush, George W.",Republican,1102169,1943106,2004-Republican,True,56.72
+750,2004,Louisiana,LA,"Kerry, John",Democratic,820299,1943106,2004-Democratic,False,42.22
+751,2004,Maine,ME,"Kerry, John",Democratic,396842,740752,2004-Democratic,False,53.57
+752,2004,Maine,ME,"Bush, George W.",Republican,330201,740752,2004-Republican,True,44.58
+753,2004,Maryland,MD,"Kerry, John",Democratic,1334493,2384238,2004-Democratic,False,55.97
+754,2004,Maryland,MD,"Bush, George W.",Republican,1024703,2384238,2004-Republican,True,42.98
+755,2004,Maryland,MD,Other,Democratic,7,2384238,2004-Democratic,False,0.0
+756,2004,Massachusetts,MA,"Kerry, John",Democratic,1803800,2927455,2004-Democratic,False,61.62
+757,2004,Massachusetts,MA,"Bush, George W.",Republican,1071109,2927455,2004-Republican,True,36.59
+758,2004,Michigan,MI,"Kerry, John",Democratic,2479183,4839252,2004-Democratic,False,51.23
+759,2004,Michigan,MI,"Bush, George W.",Republican,2313746,4839252,2004-Republican,True,47.81
+760,2004,Minnesota,MN,"Bush, George W.",Republican,1346695,2828387,2004-Republican,True,47.61
+761,2004,Mississippi,MS,"Bush, George W.",Republican,672660,1139824,2004-Republican,True,59.01
+762,2004,Mississippi,MS,"Kerry, John",Democratic,457766,1139824,2004-Democratic,False,40.16
+763,2004,Missouri,MO,"Bush, George W.",Republican,1455713,2731364,2004-Republican,True,53.3
+764,2004,Missouri,MO,"Kerry, John",Democratic,1259171,2731364,2004-Democratic,False,46.1
+765,2004,Montana,MT,"Bush, George W.",Republican,266063,450434,2004-Republican,True,59.07
+766,2004,Montana,MT,"Kerry, John",Democratic,173710,450434,2004-Democratic,False,38.57
+767,2004,Nebraska,NE,"Bush, George W.",Republican,512814,778186,2004-Republican,True,65.9
+768,2004,Nebraska,NE,"Kerry, John",Democratic,254328,778186,2004-Democratic,False,32.68
+769,2004,Nevada,NV,"Bush, George W.",Republican,418690,829587,2004-Republican,True,50.47
+770,2004,Nevada,NV,"Kerry, John",Democratic,397190,829587,2004-Democratic,False,47.88
+771,2004,New Hampshire,NH,"Kerry, John",Democratic,340511,678287,2004-Democratic,False,50.2
+772,2004,New Hampshire,NH,"Bush, George W.",Republican,331237,678287,2004-Republican,True,48.83
+773,2004,New Jersey,NJ,"Kerry, John",Democratic,1911430,3611691,2004-Democratic,False,52.92
+774,2004,New Jersey,NJ,"Bush, George W.",Republican,1670003,3611691,2004-Republican,True,46.24
+775,2004,New Mexico,NM,"Bush, George W.",Republican,376930,756304,2004-Republican,True,49.84
+776,2004,New Mexico,NM,"Kerry, John",Democratic,370942,756304,2004-Democratic,False,49.05
+777,2004,New York,NY,"Kerry, John",Democratic,4180755,7448266,2004-Democratic,False,56.13
+778,2004,New York,NY,"Bush, George W.",Republican,2806993,7448266,2004-Republican,True,37.69
+779,2004,North Carolina,NC,"Bush, George W.",Republican,1961166,3501007,2004-Republican,True,56.02
+780,2004,North Carolina,NC,"Kerry, John",Democratic,1525849,3501007,2004-Democratic,False,43.58
+781,2004,North Dakota,ND,"Bush, George W.",Republican,196651,312833,2004-Republican,True,62.86
+782,2004,North Dakota,ND,"Kerry, John",Democratic,111052,312833,2004-Democratic,False,35.5
+783,2004,Ohio,OH,"Bush, George W.",Republican,2859764,5627903,2004-Republican,True,50.81
+784,2004,Ohio,OH,"Kerry, John",Democratic,2741165,5627903,2004-Democratic,False,48.71
+785,2004,Oklahoma,OK,"Bush, George W.",Republican,959792,1463758,2004-Republican,True,65.57
+786,2004,Oklahoma,OK,"Kerry, John",Democratic,503966,1463758,2004-Democratic,False,34.43
+787,2004,Oregon,OR,"Kerry, John",Democratic,943163,1836782,2004-Democratic,False,51.35
+788,2004,Oregon,OR,"Bush, George W.",Republican,866831,1836782,2004-Republican,True,47.19
+789,2004,Pennsylvania,PA,"Kerry, John",Democratic,2938095,5769590,2004-Democratic,False,50.92
+790,2004,Pennsylvania,PA,"Bush, George W.",Republican,2793847,5769590,2004-Republican,True,48.42
+791,2004,Rhode Island,RI,"Kerry, John",Democratic,259760,437134,2004-Democratic,False,59.42
+792,2004,Rhode Island,RI,"Bush, George W.",Republican,169046,437134,2004-Republican,True,38.67
+793,2004,South Carolina,SC,"Bush, George W.",Republican,937974,1617700,2004-Republican,True,57.98
+794,2004,South Carolina,SC,"Kerry, John",Democratic,661669,1617700,2004-Democratic,False,40.9
+795,2004,South Dakota,SD,"Bush, George W.",Republican,232584,388215,2004-Republican,True,59.91
+796,2004,South Dakota,SD,"Kerry, John",Democratic,149244,388215,2004-Democratic,False,38.44
+797,2004,Tennessee,TN,"Bush, George W.",Republican,1384375,2437319,2004-Republican,True,56.8
+798,2004,Tennessee,TN,"Kerry, John",Democratic,1036477,2437319,2004-Democratic,False,42.53
+799,2004,Texas,TX,"Bush, George W.",Republican,4526917,7410749,2004-Republican,True,61.09
+800,2004,Texas,TX,"Kerry, John",Democratic,2832704,7410749,2004-Democratic,False,38.22
+801,2004,Utah,UT,"Bush, George W.",Republican,663742,927844,2004-Republican,True,71.54
+802,2004,Utah,UT,"Kerry, John",Democratic,241199,927844,2004-Democratic,False,26.0
+803,2004,Vermont,VT,"Kerry, John",Democratic,184067,312309,2004-Democratic,False,58.94
+804,2004,Vermont,VT,"Bush, George W.",Republican,121180,312309,2004-Republican,True,38.8
+805,2004,Virginia,VA,"Bush, George W.",Republican,1716959,3195415,2004-Republican,True,53.73
+806,2004,Virginia,VA,"Kerry, John",Democratic,1454742,3195415,2004-Democratic,False,45.53
+807,2004,Washington,WA,"Kerry, John",Democratic,1510201,2859084,2004-Democratic,False,52.82
+808,2004,Washington,WA,"Bush, George W.",Republican,1304894,2859084,2004-Republican,True,45.64
+809,2004,West Virginia,WV,"Bush, George W.",Republican,423778,755792,2004-Republican,True,56.07
+810,2004,West Virginia,WV,"Kerry, John",Democratic,326541,755792,2004-Democratic,False,43.21
+811,2004,Wisconsin,WI,"Kerry, John",Democratic,1489504,2997007,2004-Democratic,False,49.7
+812,2004,Wisconsin,WI,"Bush, George W.",Republican,1478120,2997007,2004-Republican,True,49.32
+813,2004,Wyoming,WY,"Bush, George W.",Republican,167629,243861,2004-Republican,True,68.74
+814,2004,Wyoming,WY,"Kerry, John",Democratic,70776,243861,2004-Democratic,False,29.02
+815,2008,Alabama,AL,"McCain, John",Republican,1266546,2099819,2008-Republican,False,60.32
+816,2008,Alabama,AL,"Obama, Barack H.",Democratic,813479,2099819,2008-Democratic,True,38.74
+817,2008,Alaska,AK,"McCain, John",Republican,193841,326197,2008-Republican,False,59.42
+818,2008,Alaska,AK,"Obama, Barack H.",Democratic,123594,326197,2008-Democratic,True,37.89
+819,2008,Arizona,AZ,"McCain, John",Republican,1230111,2293475,2008-Republican,False,53.64
+820,2008,Arizona,AZ,"Obama, Barack H.",Democratic,1034707,2293475,2008-Democratic,True,45.12
+821,2008,Arkansas,AR,"McCain, John",Republican,638017,1086617,2008-Republican,False,58.72
+822,2008,Arkansas,AR,"Obama, Barack H.",Democratic,422310,1086617,2008-Democratic,True,38.86
+823,2008,California,CA,"Obama, Barack H.",Democratic,8274473,13561900,2008-Democratic,True,61.01
+824,2008,California,CA,"McCain, John",Republican,5011781,13561900,2008-Republican,False,36.95
+825,2008,Colorado,CO,"Obama, Barack H.",Democratic,1288576,2401361,2008-Democratic,True,53.66
+826,2008,Colorado,CO,"McCain, John",Republican,1073589,2401361,2008-Republican,False,44.71
+827,2008,Connecticut,CT,"Obama, Barack H.",Democratic,997772,1646792,2008-Democratic,True,60.59
+828,2008,Connecticut,CT,"McCain, John",Republican,629428,1646792,2008-Republican,False,38.22
+829,2008,Delaware,DE,"Obama, Barack H.",Democratic,255459,412412,2008-Democratic,True,61.94
+830,2008,Delaware,DE,"McCain, John",Republican,152374,412412,2008-Republican,False,36.95
+831,2008,District of Columbia,DC,"Obama, Barack H.",Democratic,245800,265853,2008-Democratic,True,92.46
+832,2008,District of Columbia,DC,"McCain, John",Republican,17367,265853,2008-Republican,False,6.53
+833,2008,Florida,FL,"Obama, Barack H.",Democratic,4282074,8390744,2008-Democratic,True,51.03
+834,2008,Florida,FL,"McCain, John",Republican,4045624,8390744,2008-Republican,False,48.22
+835,2008,Georgia,GA,"McCain, John",Republican,2048759,3924486,2008-Republican,False,52.2
+836,2008,Georgia,GA,"Obama, Barack H.",Democratic,1844123,3924486,2008-Democratic,True,46.99
+837,2008,Hawaii,HI,"Obama, Barack H.",Democratic,325871,456064,2008-Democratic,True,71.45
+838,2008,Hawaii,HI,"McCain, John",Republican,120566,456064,2008-Republican,False,26.44
+839,2008,Idaho,ID,"McCain, John",Republican,403012,655122,2008-Republican,False,61.52
+840,2008,Idaho,ID,"Obama, Barack H.",Democratic,236440,655122,2008-Democratic,True,36.09
+841,2008,Illinois,IL,"Obama, Barack H.",Democratic,3419348,5522371,2008-Democratic,True,61.92
+842,2008,Illinois,IL,"McCain, John",Republican,2031179,5522371,2008-Republican,False,36.78
+843,2008,Indiana,IN,"Obama, Barack H.",Democratic,1374039,2751054,2008-Democratic,True,49.95
+844,2008,Indiana,IN,"McCain, John",Republican,1345648,2751054,2008-Republican,False,48.91
+845,2008,Iowa,IA,"Obama, Barack H.",Democratic,828940,1537123,2008-Democratic,True,53.93
+846,2008,Iowa,IA,"McCain, John",Republican,682379,1537123,2008-Republican,False,44.39
+847,2008,Kansas,KS,"McCain, John",Republican,699655,1235872,2008-Republican,False,56.61
+848,2008,Kansas,KS,"Obama, Barack H.",Democratic,514765,1235872,2008-Democratic,True,41.65
+849,2008,Kentucky,KY,"McCain, John",Republican,1048462,1826620,2008-Republican,False,57.4
+850,2008,Kentucky,KY,"Obama, Barack H.",Democratic,751985,1826620,2008-Democratic,True,41.17
+851,2008,Louisiana,LA,"McCain, John",Republican,1148275,1960761,2008-Republican,False,58.56
+852,2008,Louisiana,LA,"Obama, Barack H.",Democratic,782989,1960761,2008-Democratic,True,39.93
+853,2008,Maine,ME,"Obama, Barack H.",Democratic,421923,731163,2008-Democratic,True,57.71
+854,2008,Maine,ME,"McCain, John",Republican,295273,731163,2008-Republican,False,40.38
+855,2008,Maryland,MD,"Obama, Barack H.",Democratic,1629467,2631596,2008-Democratic,True,61.92
+856,2008,Maryland,MD,"McCain, John",Republican,959862,2631596,2008-Republican,False,36.47
+857,2008,Massachusetts,MA,"Obama, Barack H.",Democratic,1904097,3102995,2008-Democratic,True,61.36
+858,2008,Massachusetts,MA,"McCain, John",Republican,1108854,3102995,2008-Republican,False,35.73
+859,2008,Michigan,MI,"Obama, Barack H.",Democratic,2872579,5001596,2008-Democratic,True,57.43
+860,2008,Michigan,MI,"McCain, John",Republican,2048639,5001596,2008-Republican,False,40.96
+861,2008,Minnesota,MN,"Obama, Barack H.",Democratic,1573354,2910369,2008-Democratic,True,54.06
+862,2008,Minnesota,MN,"McCain, John",Republican,1275409,2910369,2008-Republican,False,43.82
+863,2008,Mississippi,MS,"McCain, John",Republican,724597,1289865,2008-Republican,False,56.18
+864,2008,Mississippi,MS,"Obama, Barack H.",Democratic,554662,1289865,2008-Democratic,True,43.0
+865,2008,Missouri,MO,"McCain, John",Republican,1445814,2925205,2008-Republican,False,49.43
+866,2008,Missouri,MO,"Obama, Barack H.",Democratic,1441911,2925205,2008-Democratic,True,49.29
+867,2008,Montana,MT,"McCain, John",Republican,242763,490109,2008-Republican,False,49.53
+868,2008,Montana,MT,"Obama, Barack H.",Democratic,231667,490109,2008-Democratic,True,47.27
+869,2008,Nebraska,NE,"McCain, John",Republican,452979,801281,2008-Republican,False,56.53
+870,2008,Nebraska,NE,"Obama, Barack H.",Democratic,333319,801281,2008-Democratic,True,41.6
+871,2008,Nevada,NV,"Obama, Barack H.",Democratic,533736,967848,2008-Democratic,True,55.15
+872,2008,Nevada,NV,"McCain, John",Republican,412827,967848,2008-Republican,False,42.65
+873,2008,New Hampshire,NH,"Obama, Barack H.",Democratic,384826,710970,2008-Democratic,True,54.13
+874,2008,New Hampshire,NH,"McCain, John",Republican,316534,710970,2008-Republican,False,44.52
+875,2008,New Jersey,NJ,"Obama, Barack H.",Democratic,2215422,3868237,2008-Democratic,True,57.27
+876,2008,New Jersey,NJ,"McCain, John",Republican,1613207,3868237,2008-Republican,False,41.7
+877,2008,New Mexico,NM,"Obama, Barack H.",Democratic,472422,830158,2008-Democratic,True,56.91
+878,2008,New Mexico,NM,"McCain, John",Republican,346832,830158,2008-Republican,False,41.78
+879,2008,New York,NY,"Obama, Barack H.",Democratic,4645332,7722019,2008-Democratic,True,60.16
+880,2008,New York,NY,"McCain, John",Republican,2418323,7722019,2008-Republican,False,31.32
+881,2008,North Carolina,NC,"Obama, Barack H.",Democratic,2142651,4310851,2008-Democratic,True,49.7
+882,2008,North Carolina,NC,"McCain, John",Republican,2128474,4310851,2008-Republican,False,49.37
+883,2008,North Dakota,ND,"McCain, John",Republican,168601,316621,2008-Republican,False,53.25
+884,2008,North Dakota,ND,"Obama, Barack H.",Democratic,141278,316621,2008-Democratic,True,44.62
+885,2008,Ohio,OH,"Obama, Barack H.",Democratic,2940044,5708350,2008-Democratic,True,51.5
+886,2008,Ohio,OH,"McCain, John",Republican,2677820,5708350,2008-Republican,False,46.91
+887,2008,Oklahoma,OK,"McCain, John",Republican,960165,1462661,2008-Republican,False,65.65
+888,2008,Oklahoma,OK,"Obama, Barack H.",Democratic,502496,1462661,2008-Democratic,True,34.35
+889,2008,Oregon,OR,"Obama, Barack H.",Democratic,1037291,1827864,2008-Democratic,True,56.75
+890,2008,Oregon,OR,"McCain, John",Republican,738475,1827864,2008-Republican,False,40.4
+891,2008,Pennsylvania,PA,"Obama, Barack H.",Democratic,3276363,6013272,2008-Democratic,True,54.49
+892,2008,Pennsylvania,PA,"McCain, John",Republican,2655885,6013272,2008-Republican,False,44.17
+893,2008,Rhode Island,RI,"Obama, Barack H.",Democratic,296571,471766,2008-Democratic,True,62.86
+894,2008,Rhode Island,RI,"McCain, John",Republican,165391,471766,2008-Republican,False,35.06
+895,2008,South Carolina,SC,"McCain, John",Republican,1034896,1920969,2008-Republican,False,53.87
+896,2008,South Carolina,SC,"Obama, Barack H.",Democratic,862449,1920969,2008-Democratic,True,44.9
+897,2008,South Dakota,SD,"McCain, John",Republican,203054,381975,2008-Republican,False,53.16
+898,2008,South Dakota,SD,"Obama, Barack H.",Democratic,170924,381975,2008-Democratic,True,44.75
+899,2008,Tennessee,TN,"McCain, John",Republican,1479178,2599749,2008-Republican,False,56.9
+900,2008,Tennessee,TN,"Obama, Barack H.",Democratic,1087437,2599749,2008-Democratic,True,41.83
+901,2008,Texas,TX,"McCain, John",Republican,4479328,8077795,2008-Republican,False,55.45
+902,2008,Texas,TX,"Obama, Barack H.",Democratic,3528633,8077795,2008-Democratic,True,43.68
+903,2008,Utah,UT,"McCain, John",Republican,596030,952370,2008-Republican,False,62.58
+904,2008,Utah,UT,"Obama, Barack H.",Democratic,327670,952370,2008-Democratic,True,34.41
+905,2008,Vermont,VT,"Obama, Barack H.",Democratic,219262,325046,2008-Democratic,True,67.46
+906,2008,Vermont,VT,"McCain, John",Republican,98974,325046,2008-Republican,False,30.45
+907,2008,Virginia,VA,"Obama, Barack H.",Democratic,1959532,3723260,2008-Democratic,True,52.63
+908,2008,Virginia,VA,"McCain, John",Republican,1725005,3723260,2008-Republican,False,46.33
+909,2008,Washington,WA,"Obama, Barack H.",Democratic,1750848,3036878,2008-Democratic,True,57.65
+910,2008,Washington,WA,"McCain, John",Republican,1229216,3036878,2008-Republican,False,40.48
+911,2008,West Virginia,WV,"McCain, John",Republican,397466,713451,2008-Republican,False,55.71
+912,2008,West Virginia,WV,"Obama, Barack H.",Democratic,303857,713451,2008-Democratic,True,42.59
+913,2008,Wisconsin,WI,"Obama, Barack H.",Democratic,1677211,2983417,2008-Democratic,True,56.22
+914,2008,Wisconsin,WI,"McCain, John",Republican,1262393,2983417,2008-Republican,False,42.31
+915,2008,Wyoming,WY,"McCain, John",Republican,164958,254904,2008-Republican,False,64.71
+916,2008,Wyoming,WY,"Obama, Barack H.",Democratic,82868,254904,2008-Democratic,True,32.51
+917,2012,Alabama,AL,"Romney, Mitt",Republican,1255925,2074338,2012-Republican,False,60.55
+918,2012,Alabama,AL,"Obama, Barack H.",Democratic,795696,2074338,2012-Democratic,True,38.36
+919,2012,Alaska,AK,"Romney, Mitt",Republican,164676,300495,2012-Republican,False,54.8
+920,2012,Alaska,AK,"Obama, Barack H.",Democratic,122640,300495,2012-Democratic,True,40.81
+921,2012,Arizona,AZ,"Romney, Mitt",Republican,1233654,2299254,2012-Republican,False,53.65
+922,2012,Arizona,AZ,"Obama, Barack H.",Democratic,1025232,2299254,2012-Democratic,True,44.59
+923,2012,Arkansas,AR,"Romney, Mitt",Republican,647744,1069468,2012-Republican,False,60.57
+924,2012,Arkansas,AR,"Obama, Barack H.",Democratic,394409,1069468,2012-Democratic,True,36.88
+925,2012,California,CA,"Obama, Barack H.",Democratic,7854285,13038547,2012-Democratic,True,60.24
+926,2012,California,CA,"Romney, Mitt",Republican,4839958,13038547,2012-Republican,False,37.12
+927,2012,Colorado,CO,"Obama, Barack H.",Democratic,1323101,2569516,2012-Democratic,True,51.49
+928,2012,Colorado,CO,"Romney, Mitt",Republican,1185243,2569516,2012-Republican,False,46.13
+929,2012,Connecticut,CT,"Obama, Barack H.",Democratic,905083,1558204,2012-Democratic,True,58.09
+930,2012,Connecticut,CT,"Romney, Mitt",Republican,634892,1558204,2012-Republican,False,40.75
+931,2012,Delaware,DE,"Obama, Barack H.",Democratic,242584,413890,2012-Democratic,True,58.61
+932,2012,Delaware,DE,"Romney, Mitt",Republican,165484,413890,2012-Republican,False,39.98
+933,2012,District of Columbia,DC,"Obama, Barack H.",Democratic,267070,293764,2012-Democratic,True,90.91
+934,2012,District of Columbia,DC,"Romney, Mitt",Republican,21381,293764,2012-Republican,False,7.28
+935,2012,Florida,FL,"Obama, Barack H.",Democratic,4237756,8474179,2012-Democratic,True,50.01
+936,2012,Florida,FL,"Romney, Mitt",Republican,4163447,8474179,2012-Republican,False,49.13
+937,2012,Georgia,GA,"Romney, Mitt",Republican,2078688,3897839,2012-Republican,False,53.33
+938,2012,Georgia,GA,"Obama, Barack H.",Democratic,1773827,3897839,2012-Democratic,True,45.51
+939,2012,Hawaii,HI,"Obama, Barack H.",Democratic,306658,437159,2012-Democratic,True,70.15
+940,2012,Hawaii,HI,"Romney, Mitt",Republican,121015,437159,2012-Republican,False,27.68
+941,2012,Idaho,ID,"Romney, Mitt",Republican,420911,652274,2012-Republican,False,64.53
+942,2012,Idaho,ID,"Obama, Barack H.",Democratic,212787,652274,2012-Democratic,True,32.62
+943,2012,Illinois,IL,"Obama, Barack H.",Democratic,3019512,5242014,2012-Democratic,True,57.6
+944,2012,Illinois,IL,"Romney, Mitt",Republican,2135216,5242014,2012-Republican,False,40.73
+945,2012,Indiana,IN,"Romney, Mitt",Republican,1420543,2624534,2012-Republican,False,54.13
+946,2012,Indiana,IN,"Obama, Barack H.",Democratic,1152887,2624534,2012-Democratic,True,43.93
+947,2012,Iowa,IA,"Obama, Barack H.",Democratic,822544,1582180,2012-Democratic,True,51.99
+948,2012,Iowa,IA,"Romney, Mitt",Republican,730617,1582180,2012-Republican,False,46.18
+949,2012,Kansas,KS,"Romney, Mitt",Republican,692634,1159971,2012-Republican,False,59.71
+950,2012,Kansas,KS,"Obama, Barack H.",Democratic,440726,1159971,2012-Democratic,True,37.99
+951,2012,Kentucky,KY,"Romney, Mitt",Republican,1087190,1797212,2012-Republican,False,60.49
+952,2012,Kentucky,KY,"Obama, Barack H.",Democratic,679370,1797212,2012-Democratic,True,37.8
+953,2012,Louisiana,LA,"Romney, Mitt",Republican,1152262,1994065,2012-Republican,False,57.78
+954,2012,Louisiana,LA,"Obama, Barack H.",Democratic,809141,1994065,2012-Democratic,True,40.58
+955,2012,Maine,ME,"Obama, Barack H.",Democratic,401306,724758,2012-Democratic,True,55.37
+956,2012,Maine,ME,"Romney, Mitt",Republican,292276,724758,2012-Republican,False,40.33
+957,2012,Maryland,MD,"Obama, Barack H.",Democratic,1677844,2707327,2012-Democratic,True,61.97
+958,2012,Maryland,MD,"Romney, Mitt",Republican,971869,2707327,2012-Republican,False,35.9
+959,2012,Massachusetts,MA,"Obama, Barack H.",Democratic,1921290,3184196,2012-Democratic,True,60.34
+960,2012,Massachusetts,MA,"Romney, Mitt",Republican,1188314,3184196,2012-Republican,False,37.32
+961,2012,Michigan,MI,"Obama, Barack H.",Democratic,2564569,4730961,2012-Democratic,True,54.21
+962,2012,Michigan,MI,"Romney, Mitt",Republican,2115256,4730961,2012-Republican,False,44.71
+963,2012,Minnesota,MN,"Romney, Mitt",Republican,1320225,2936561,2012-Republican,False,44.96
+964,2012,Mississippi,MS,"Romney, Mitt",Republican,710746,1285584,2012-Republican,False,55.29
+965,2012,Mississippi,MS,"Obama, Barack H.",Democratic,562949,1285584,2012-Democratic,True,43.79
+966,2012,Missouri,MO,"Romney, Mitt",Republican,1482440,2757323,2012-Republican,False,53.76
+967,2012,Missouri,MO,"Obama, Barack H.",Democratic,1223796,2757323,2012-Democratic,True,44.38
+968,2012,Montana,MT,"Romney, Mitt",Republican,267928,484048,2012-Republican,False,55.35
+969,2012,Montana,MT,"Obama, Barack H.",Democratic,201839,484048,2012-Democratic,True,41.7
+970,2012,Nebraska,NE,"Romney, Mitt",Republican,475064,794379,2012-Republican,False,59.8
+971,2012,Nebraska,NE,"Obama, Barack H.",Democratic,302081,794379,2012-Democratic,True,38.03
+972,2012,Nevada,NV,"Obama, Barack H.",Democratic,531373,1014918,2012-Democratic,True,52.36
+973,2012,Nevada,NV,"Romney, Mitt",Republican,463567,1014918,2012-Republican,False,45.68
+974,2012,New Hampshire,NH,"Obama, Barack H.",Democratic,369561,710972,2012-Democratic,True,51.98
+975,2012,New Hampshire,NH,"Romney, Mitt",Republican,329918,710972,2012-Republican,False,46.4
+976,2012,New Jersey,NJ,"Obama, Barack H.",Democratic,2122786,3638499,2012-Democratic,True,58.34
+977,2012,New Jersey,NJ,"Romney, Mitt",Republican,1478088,3638499,2012-Republican,False,40.62
+978,2012,New Mexico,NM,"Obama, Barack H.",Democratic,415335,783758,2012-Democratic,True,52.99
+979,2012,New Mexico,NM,"Romney, Mitt",Republican,335788,783758,2012-Republican,False,42.84
+980,2012,New York,NY,"Obama, Barack H.",Democratic,4324228,7116784,2012-Democratic,True,60.76
+981,2012,New York,NY,"Romney, Mitt",Republican,2223397,7116784,2012-Republican,False,31.24
+982,2012,North Carolina,NC,"Romney, Mitt",Republican,2270395,4505372,2012-Republican,False,50.39
+983,2012,North Carolina,NC,"Obama, Barack H.",Democratic,2178391,4505372,2012-Democratic,True,48.35
+984,2012,North Dakota,ND,"Romney, Mitt",Republican,188320,322932,2012-Republican,False,58.32
+985,2012,North Dakota,ND,"Obama, Barack H.",Democratic,124966,322932,2012-Democratic,True,38.7
+986,2012,Ohio,OH,"Obama, Barack H.",Democratic,2827621,5580822,2012-Democratic,True,50.67
+987,2012,Ohio,OH,"Romney, Mitt",Republican,2661407,5580822,2012-Republican,False,47.69
+988,2012,Oklahoma,OK,"Romney, Mitt",Republican,891325,1334872,2012-Republican,False,66.77
+989,2012,Oklahoma,OK,"Obama, Barack H.",Democratic,443547,1334872,2012-Democratic,True,33.23
+990,2012,Oregon,OR,"Obama, Barack H.",Democratic,970488,1789270,2012-Democratic,True,54.24
+991,2012,Oregon,OR,"Romney, Mitt",Republican,754175,1789270,2012-Republican,False,42.15
+992,2012,Pennsylvania,PA,"Obama, Barack H.",Democratic,2990274,5742040,2012-Democratic,True,52.08
+993,2012,Pennsylvania,PA,"Romney, Mitt",Republican,2680434,5742040,2012-Republican,False,46.68
+994,2012,Rhode Island,RI,"Obama, Barack H.",Democratic,279677,446049,2012-Democratic,True,62.7
+995,2012,Rhode Island,RI,"Romney, Mitt",Republican,157204,446049,2012-Republican,False,35.24
+996,2012,South Carolina,SC,"Romney, Mitt",Republican,1071645,1964118,2012-Republican,False,54.56
+997,2012,South Carolina,SC,"Obama, Barack H.",Democratic,865941,1964118,2012-Democratic,True,44.09
+998,2012,South Dakota,SD,"Romney, Mitt",Republican,210610,363815,2012-Republican,False,57.89
+999,2012,South Dakota,SD,"Obama, Barack H.",Democratic,145039,363815,2012-Democratic,True,39.87
+1000,2012,Tennessee,TN,"Romney, Mitt",Republican,1462330,2458577,2012-Republican,False,59.48
+1001,2012,Tennessee,TN,"Obama, Barack H.",Democratic,960709,2458577,2012-Democratic,True,39.08
+1002,2012,Texas,TX,"Romney, Mitt",Republican,4569843,7993851,2012-Republican,False,57.17
+1003,2012,Texas,TX,"Obama, Barack H.",Democratic,3308124,7993851,2012-Democratic,True,41.38
+1004,2012,Utah,UT,"Romney, Mitt",Republican,740600,1017440,2012-Republican,False,72.79
+1005,2012,Utah,UT,"Obama, Barack H.",Democratic,251813,1017440,2012-Democratic,True,24.75
+1006,2012,Vermont,VT,"Obama, Barack H.",Democratic,199239,299290,2012-Democratic,True,66.57
+1007,2012,Vermont,VT,"Romney, Mitt",Republican,92698,299290,2012-Republican,False,30.97
+1008,2012,Virginia,VA,"Obama, Barack H.",Democratic,1971820,3854489,2012-Democratic,True,51.16
+1009,2012,Virginia,VA,"Romney, Mitt",Republican,1822522,3854489,2012-Republican,False,47.28
+1010,2012,Washington,WA,"Obama, Barack H.",Democratic,1755396,3125516,2012-Democratic,True,56.16
+1011,2012,Washington,WA,"Mitt, Romney",Republican,1290670,3125516,2012-Republican,False,41.29
+1012,2012,West Virginia,WV,"Romney, Mitt",Republican,417655,670438,2012-Republican,False,62.3
+1013,2012,West Virginia,WV,"Obama, Barack H.",Democratic,238269,670438,2012-Democratic,True,35.54
+1014,2012,Wisconsin,WI,"Obama, Barack H.",Democratic,1620985,3071434,2012-Democratic,True,52.78
+1015,2012,Wisconsin,WI,"Romney, Mitt",Republican,1410966,3071434,2012-Republican,False,45.94
+1016,2012,Wyoming,WY,"Romney, Mitt",Republican,170962,250701,2012-Republican,False,68.19
+1017,2012,Wyoming,WY,"Obama, Barack H.",Democratic,69286,250701,2012-Democratic,True,27.64
+1018,2016,Alabama,AL,"Trump, Donald J.",Republican,1318255,2123372,2016-Republican,True,62.08
+1019,2016,Alabama,AL,"Clinton, Hillary",Democratic,729547,2123372,2016-Democratic,False,34.36
+1020,2016,Alaska,AK,"Trump, Donald J.",Republican,163387,318608,2016-Republican,True,51.28
+1021,2016,Alaska,AK,"Clinton, Hillary",Democratic,116454,318608,2016-Democratic,False,36.55
+1022,2016,Arizona,AZ,"Trump, Donald J.",Republican,1252401,2573165,2016-Republican,True,48.67
+1023,2016,Arizona,AZ,"Clinton, Hillary",Democratic,1161167,2573165,2016-Democratic,False,45.13
+1024,2016,Arizona,AZ,,Democratic,42,2573165,2016-Democratic,False,0.0
+1025,2016,Arkansas,AR,"Trump, Donald J.",Republican,684872,1130635,2016-Republican,True,60.57
+1026,2016,Arkansas,AR,"Clinton, Hillary",Democratic,380494,1130635,2016-Democratic,False,33.65
+1027,2016,California,CA,"Clinton, Hillary",Democratic,8753788,14181595,2016-Democratic,False,61.73
+1028,2016,California,CA,"Trump, Donald J.",Republican,4483810,14181595,2016-Republican,True,31.62
+1029,2016,Colorado,CO,"Clinton, Hillary",Democratic,1338870,2780220,2016-Democratic,False,48.16
+1030,2016,Colorado,CO,"Trump, Donald J.",Republican,1202484,2780220,2016-Republican,True,43.25
+1031,2016,Connecticut,CT,"Clinton, Hillary",Democratic,897572,1644920,2016-Democratic,False,54.57
+1032,2016,Connecticut,CT,"Trump, Donald J.",Republican,673215,1644920,2016-Republican,True,40.93
+1033,2016,Delaware,DE,"Clinton, Hillary",Democratic,235603,441590,2016-Democratic,False,53.35
+1034,2016,Delaware,DE,"Trump, Donald J.",Republican,185127,441590,2016-Republican,True,41.92
+1035,2016,District of Columbia,DC,"Clinton, Hillary",Democratic,282830,312575,2016-Democratic,False,90.48
+1036,2016,District of Columbia,DC,"Trump, Donald J.",Republican,12723,312575,2016-Republican,True,4.07
+1037,2016,Florida,FL,"Trump, Donald J.",Republican,4617886,9420039,2016-Republican,True,49.02
+1038,2016,Florida,FL,"Clinton, Hillary",Democratic,4504975,9420039,2016-Democratic,False,47.82
+1039,2016,Georgia,GA,"Trump, Donald J.",Republican,2089104,4114732,2016-Republican,True,50.77
+1040,2016,Georgia,GA,"Clinton, Hillary",Democratic,1877963,4114732,2016-Democratic,False,45.64
+1041,2016,Hawaii,HI,"Clinton, Hillary",Democratic,266891,437664,2016-Democratic,False,60.98
+1042,2016,Hawaii,HI,"Trump, Donald J.",Republican,128847,437664,2016-Republican,True,29.44
+1043,2016,Idaho,ID,"Trump, Donald J.",Republican,409055,690255,2016-Republican,True,59.26
+1044,2016,Idaho,ID,"Clinton, Hillary",Democratic,189765,690255,2016-Democratic,False,27.49
+1045,2016,Illinois,IL,"Clinton, Hillary",Democratic,3090729,5536424,2016-Democratic,False,55.83
+1046,2016,Illinois,IL,"Trump, Donald J.",Republican,2146015,5536424,2016-Republican,True,38.76
+1047,2016,Indiana,IN,"Trump, Donald J.",Republican,1557286,2734958,2016-Republican,True,56.94
+1048,2016,Indiana,IN,"Clinton, Hillary",Democratic,1033126,2734958,2016-Democratic,False,37.77
+1049,2016,Iowa,IA,"Trump, Donald J.",Republican,800983,1565580,2016-Republican,True,51.16
+1050,2016,Iowa,IA,"Clinton, Hillary",Democratic,653669,1565580,2016-Democratic,False,41.75
+1051,2016,Kansas,KS,"Trump, Donald J.",Republican,671018,1184402,2016-Republican,True,56.65
+1052,2016,Kansas,KS,"Clinton, Hillary",Democratic,427005,1184402,2016-Democratic,False,36.05
+1053,2016,Kentucky,KY,"Trump, Donald J.",Republican,1202971,1924149,2016-Republican,True,62.52
+1054,2016,Kentucky,KY,"Clinton, Hillary",Democratic,628854,1924149,2016-Democratic,False,32.68
+1055,2016,Louisiana,LA,"Trump, Donald J.",Republican,1178638,2029032,2016-Republican,True,58.09
+1056,2016,Louisiana,LA,"Clinton, Hillary",Democratic,780154,2029032,2016-Democratic,False,38.45
+1057,2016,Maine,ME,"Clinton, Hillary",Democratic,357735,771892,2016-Democratic,False,46.35
+1058,2016,Maine,ME,"Trump, Donald J.",Republican,335593,771892,2016-Republican,True,43.48
+1059,2016,Maryland,MD,"Clinton, Hillary",Democratic,1677928,2781446,2016-Democratic,False,60.33
+1060,2016,Maryland,MD,"Trump, Donald J.",Republican,943169,2781446,2016-Republican,True,33.91
+1061,2016,Maryland,MD,"Trump, Donald J.",Republican,259,2781446,2016-Republican,True,0.01
+1062,2016,Maryland,MD,"Clinton, Hillary",Democratic,78,2781446,2016-Democratic,False,0.0
+1063,2016,Massachusetts,MA,"Clinton, Hillary",Democratic,1995196,3378821,2016-Democratic,False,59.05
+1064,2016,Massachusetts,MA,"Trump, Donald J.",Republican,1090893,3378821,2016-Republican,True,32.29
+1065,2016,Michigan,MI,"Trump, Donald J.",Republican,2279543,4799284,2016-Republican,True,47.5
+1066,2016,Michigan,MI,"Clinton, Hillary",Democratic,2268839,4799284,2016-Democratic,False,47.27
+1067,2016,Minnesota,MN,"Clinton, Hillary",Democratic,1367705,2944782,2016-Democratic,False,46.45
+1068,2016,Minnesota,MN,"Trump, Donald J.",Republican,1322949,2944782,2016-Republican,True,44.93
+1069,2016,Mississippi,MS,"Trump, Donald J.",Republican,700714,1209357,2016-Republican,True,57.94
+1070,2016,Mississippi,MS,"Clinton, Hillary",Democratic,485131,1209357,2016-Democratic,False,40.11
+1071,2016,Missouri,MO,"Trump, Donald J.",Republican,1594511,2808605,2016-Republican,True,56.77
+1072,2016,Missouri,MO,"Clinton, Hillary",Democratic,1071068,2808605,2016-Democratic,False,38.14
+1073,2016,Montana,MT,"Trump, Donald J.",Republican,279240,494526,2016-Republican,True,56.47
+1074,2016,Montana,MT,"Clinton, Hillary",Democratic,177709,494526,2016-Democratic,False,35.94
+1075,2016,Nebraska,NE,"Trump, Donald J.",Republican,495961,844227,2016-Republican,True,58.75
+1076,2016,Nebraska,NE,"Clinton, Hillary",Democratic,284494,844227,2016-Democratic,False,33.7
+1077,2016,Nevada,NV,"Clinton, Hillary",Democratic,539260,1125385,2016-Democratic,False,47.92
+1078,2016,Nevada,NV,"Trump, Donald J.",Republican,512058,1125385,2016-Republican,True,45.5
+1079,2016,New Hampshire,NH,"Clinton, Hillary",Democratic,348526,744296,2016-Democratic,False,46.83
+1080,2016,New Hampshire,NH,"Trump, Donald J.",Republican,345790,744296,2016-Republican,True,46.46
+1081,2016,New Jersey,NJ,"Clinton, Hillary",Democratic,2148278,3874046,2016-Democratic,False,55.45
+1082,2016,New Jersey,NJ,"Trump, Donald J.",Republican,1601933,3874046,2016-Republican,True,41.35
+1083,2016,New Mexico,NM,"Clinton, Hillary",Democratic,385234,798319,2016-Democratic,False,48.26
+1084,2016,New Mexico,NM,"Trump, Donald J.",Republican,319667,798319,2016-Republican,True,40.04
+1085,2016,New York,NY,"Clinton, Hillary",Democratic,4379789,7802084,2016-Democratic,False,56.14
+1086,2016,New York,NY,"Trump, Donald J.",Republican,2527142,7802084,2016-Republican,True,32.39
+1087,2016,North Carolina,NC,"Trump, Donald J.",Republican,2362631,4741564,2016-Republican,True,49.83
+1088,2016,North Carolina,NC,"Clinton, Hillary",Democratic,2189316,4741564,2016-Democratic,False,46.17
+1089,2016,North Dakota,ND,"Trump, Donald J.",Republican,216794,344360,2016-Republican,True,62.96
+1090,2016,North Dakota,ND,"Clinton, Hillary",Democratic,93758,344360,2016-Democratic,False,27.23
+1091,2016,Ohio,OH,"Trump, Donald J.",Republican,2841005,5496487,2016-Republican,True,51.69
+1092,2016,Ohio,OH,"Clinton, Hillary",Democratic,2394164,5496487,2016-Democratic,False,43.56
+1093,2016,Oklahoma,OK,"Trump, Donald J.",Republican,949136,1452992,2016-Republican,True,65.32
+1094,2016,Oklahoma,OK,"Clinton, Hillary",Democratic,420375,1452992,2016-Democratic,False,28.93
+1095,2016,Oregon,OR,"Clinton, Hillary",Democratic,1002106,2001336,2016-Democratic,False,50.07
+1096,2016,Oregon,OR,"Trump, Donald J.",Republican,782403,2001336,2016-Republican,True,39.09
+1097,2016,Pennsylvania,PA,"Trump, Donald J.",Republican,2970733,6115402,2016-Republican,True,48.58
+1098,2016,Pennsylvania,PA,"Clinton, Hillary",Democratic,2926441,6115402,2016-Democratic,False,47.85
+1099,2016,Rhode Island,RI,"Clinton, Hillary",Democratic,252525,464144,2016-Democratic,False,54.41
+1100,2016,Rhode Island,RI,"Trump, Donald J.",Republican,180543,464144,2016-Republican,True,38.9
+1101,2016,South Carolina,SC,"Trump, Donald J.",Republican,1155389,2103027,2016-Republican,True,54.94
+1102,2016,South Carolina,SC,"Clinton, Hillary",Democratic,855373,2103027,2016-Democratic,False,40.67
+1103,2016,South Dakota,SD,"Trump, Donald J.",Republican,227721,370093,2016-Republican,True,61.53
+1104,2016,South Dakota,SD,"Clinton, Hillary",Democratic,117458,370093,2016-Democratic,False,31.74
+1105,2016,Tennessee,TN,"Trump, Donald J.",Republican,1522925,2508027,2016-Republican,True,60.72
+1106,2016,Tennessee,TN,"Clinton, Hillary",Democratic,870695,2508027,2016-Democratic,False,34.72
+1107,2016,Texas,TX,"Trump, Donald J.",Republican,4685047,8969226,2016-Republican,True,52.23
+1108,2016,Texas,TX,"Clinton, Hillary",Democratic,3877868,8969226,2016-Democratic,False,43.24
+1109,2016,Utah,UT,"Trump, Donald J.",Republican,515211,1131317,2016-Republican,True,45.54
+1110,2016,Utah,UT,"Clinton, Hillary",Democratic,310674,1131317,2016-Democratic,False,27.46
+1111,2016,Vermont,VT,"Clinton, Hillary",Democratic,178573,320467,2016-Democratic,False,55.72
+1112,2016,Vermont,VT,"Trump, Donald J.",Republican,95369,320467,2016-Republican,True,29.76
+1113,2016,Virginia,VA,"Clinton, Hillary",Democratic,1981473,3982752,2016-Democratic,False,49.75
+1114,2016,Virginia,VA,"Trump, Donald J.",Republican,1769443,3982752,2016-Republican,True,44.43
+1115,2016,Washington,WA,"Clinton, Hillary",Democratic,1742718,3317019,2016-Democratic,False,52.54
+1116,2016,Washington,WA,"Trump, Donald J.",Republican,1221747,3317019,2016-Republican,True,36.83
+1117,2016,West Virginia,WV,"Trump, Donald J.",Republican,489371,713051,2016-Republican,True,68.63
+1118,2016,West Virginia,WV,"Clinton, Hillary",Democratic,188794,713051,2016-Democratic,False,26.48
+1119,2016,Wisconsin,WI,"Trump, Donald J.",Republican,1405284,2976150,2016-Republican,True,47.22
+1120,2016,Wisconsin,WI,"Clinton, Hillary",Democratic,1382536,2976150,2016-Democratic,False,46.45
+1121,2016,Wyoming,WY,"Trump, Donald J.",Republican,174419,258788,2016-Republican,True,67.4
+1122,2016,Wyoming,WY,"Clinton, Hillary",Democratic,55973,258788,2016-Democratic,False,21.63
