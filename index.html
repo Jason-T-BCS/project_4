@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Election</title>
+    <title>Presidential Election Prediction</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -29,8 +29,14 @@
                     <h2>Introduction</h2>
                     <div class="card" style="width: 100%;">
                         <div class="card-body bg-light">
-                            <!-- add introduction scirpt  -->
-                            <p class="card-text" style="color: #a1251b"></p>
+                            <!-- add introduction script  -->
+                            <p class="card-text" style="color: #a1251b">
+                                With the upcoming 2020 election only being a year away, we thought it would be interesting as well
+                                as entertaining to predict what the future holds for the United States. Because of the relative 
+                                complexity of the Presidential election, there was a wide variety of data that could potentially be
+                                used. However, our team chose to look at past elections to predict those in the future as well as
+                                looking into more fluid factors like sentiment via Twitter.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -43,47 +49,71 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <h3 style="margin-top: 40px;">Steps</h3>
+                <div class="col-lg-12">
+                    <h2 style="margin-top: 40px;">Our Process</h2>
                     <div>
-                        <p class="card-text" style="color: #a1251b">Data Collection</p>
-                        <p class="card-text" style="color: #a1251b">Modelling</p>
-                        <p class="card-text" style="color: #a1251b">Test Train</p>
-                        <p class="card-text" style="color: #a1251b">Prediction</p>
+                        <!-- data cleaning -->
+                        <h3 class="card-text" style="color: #a1251b">Data Cleaning</h3>
+                        
+                        <h5>Raw Data</h5>
+                        <img src="rawdata.png" alt="raw_data" width="1100">
+                        <ul>
+                            <li>popular vote by state from 1976-2016</li>
+                            <li>does not have who won presidential election</li>
+                            <li>includes all parties</li>
+                        </ul>
+                        <h5>Election History Data</h5>
+                        <img src="electionhistory.png" alt="election_hist_data" width="1100">
+                        <ul>
+                                <li>provides data for who won each election</li>
+                                <li>names were different in the raw data</li>
+                                <li>use the party names and the year</li>
+                        </ul>
+                        <h5>Merged Data</h5>
+                        <img src="cleandata.png" alt="clean_data" width="1100">
+                        <ul>
+                                <li>joined on party and year</li>
+                                <li>created column where winner was either True or False</li>
+                        </ul>
+
+                        <!-- test/train/split -->
+                        <img src="screen01.png" alt="test_train_split" width="1100">
+
+                        <!-- modeling -->
+                        <h3 class="card-text" style="color: #a1251b">Modeling</h3>
+                        <img src="screen02.png" alt="linear_regression" width="1100">
+
+                        <!-- testing and training -->
+                        <h3 class="card-text" style="color: #a1251b">Testing and Training</h3>
+                        <img src="screen03.png" alt="prediction" width="1100">
+
+                        <!-- prediction -->
+                        <h3 class="card-text" style="color: #a1251b">Prediction</h3>
+                        <img src="screen04.png" alt="sentiment_analysis" width="1100">
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container">
-            <h2 style="padding-top: 60px; margin-top: 60px; text-align: center;">Tableau</h2>
-            <hr>
-            <div class="card-deck">
-                <div class="col-md-12">
-                    <div class='tableauPlaceholder' id='viz1574611682756' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HistoricalPresidentialElectionResults_10&#47;Election&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
-                            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-                            <param name='embed_code_version' value='3' />
-                            <param name='site_root' value='' />
-                            <param name='name' value='HistoricalPresidentialElectionResults_10&#47;Election' />
-                            <param name='tabs' value='no' />
-                            <param name='toolbar' value='yes' />
-                            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HistoricalPresidentialElectionResults_10&#47;Election&#47;1.png' />
-                            <param name='animate_transition' value='yes' />
-                            <param name='display_static_image' value='yes' />
-                            <param name='display_spinner' value='yes' />
-                            <param name='display_overlay' value='yes' />
-                            <param name='display_count' value='yes' /></object></div>
-                    <script type='text/javascript'>
-                        var divElement = document.getElementById('viz1574611682756');
-                        var vizElement = divElement.getElementsByTagName('object')[0];
-                        vizElement.style.width = '1200px';
-                        vizElement.style.height = '777px';
-                        var scriptElement = document.createElement('script');
-                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-                        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+        <div class='container'>
+            <div class='tableauPlaceholder' id='viz1574724014406' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project4_15747231975420&#47;Prediction&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Project4_15747231975420&#47;Prediction' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Project4_15747231975420&#47;Prediction&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1574724014406');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+        </div>
 
-                    </script>
-                    <!-- replace the above code by our tableau code -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h3>References</h3>
+                    <ol>
+                        <li>
+                            Historical US Presidential Elections by Jacob Olsufka
+                        </li>
+                        <li>
+                            <a href=https://github.com/PrincetonUniversity/historic_state_legislative_election_results>Princeton University Historic State Legislative Election Results by wtadler</a>
+                        </li>
+                        <li>
+                            <a href=https://electionlab.mit.edu/data>MIT Election Data - U.S. President 1976-2016</a>
+                        </li>
+                    </ol>
                 </div>
             </div>
         </div>
